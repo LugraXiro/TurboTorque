@@ -10,7 +10,7 @@
     <!--Logo de la app-->
     <style name="Theme.MyApp.Splash" parent="Theme.SplashScreen">
         <!--Logo-->
-        <item name="windowSplashScreenAnimatedIcon">@drawable/logo_turbo_torque</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splashscreen_logo</item>
         <item name="windowSplashScreenIconBackgroundColor">@android:color/transparent</item>
 
         <!-- Fondo de la splashscreen -->

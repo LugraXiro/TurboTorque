@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
         splashScreen.setKeepOnScreenCondition { keep }
 
         GlobalScope.launch {
-            delay(2000)
+            delay(3000)
             keep = false
         }
     }
