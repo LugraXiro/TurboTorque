@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <EditText
+        android:id="@+id/insertUser"
+        android:layout_width="267dp"
+        android:layout_height="34dp"
+        android:text="Usuario"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="324dp" />
+
+    <EditText
+        android:id="@+id/insertPassword"
+        android:layout_width="267dp"
+        android:layout_height="34dp"
+        android:text="Contraseña"
+        tools:layout_editor_absoluteX="72dp"
+        tools:layout_editor_absoluteY="387dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="331dp"
+        android:layout_height="410dp"
+        app:srcCompat="@drawable/splashscreen_logo"
+        tools:layout_editor_absoluteX="40dp"
+        tools:layout_editor_absoluteY="-38dp" />
+
+    <Button
+        android:id="@+id/buttonLogIn"
+        android:layout_width="240dp"
+        android:layout_height="48dp"
+        android:text="Iniciar sesión"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="471dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>
