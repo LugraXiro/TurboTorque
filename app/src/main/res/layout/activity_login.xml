@@ -9,7 +9,8 @@
     <EditText
         android:id="@+id/insertUser"
         android:layout_width="267dp"
-        android:layout_height="34dp"
+        android:layout_height="40dp"
+        android:background="@drawable/tarjeta"
         android:text="Usuario"
         tools:layout_editor_absoluteX="72dp"
         tools:layout_editor_absoluteY="324dp" />
@@ -17,7 +18,8 @@
     <EditText
         android:id="@+id/insertPassword"
         android:layout_width="267dp"
-        android:layout_height="34dp"
+        android:layout_height="40dp"
+        android:background="@drawable/tarjeta"
         android:text="Contraseña"
         tools:layout_editor_absoluteX="72dp"
         tools:layout_editor_absoluteY="387dp" />
