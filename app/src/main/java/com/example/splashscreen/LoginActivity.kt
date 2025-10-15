@@ -4,6 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
+import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 
@@ -12,14 +13,19 @@ class LoginActivity : AppCompatActivity(){
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
 
-        val etUsuario = findViewById<EditText>(R.id.insertUser)
-        val etContrasenha = findViewById<EditText>(R.id.insertPassword)
-        val btnLogIn = findViewById<Button>(R.id.buttonLogIn)
+        val etUsuario = findViewById<EditText>(R.id.etInsertarUsuario)
+        val etContrasenha = findViewById<EditText>(R.id.etInsertarContrasenha)
+        val btnIniciarSesion = findViewById<Button>(R.id.btnIniciarSesion)
+        val btnRegistrarse = findViewById<TextView>(R.id.tvRegistrate)
+
+
+
+
 
         //Pulsar el botón de Login
-        btnLogIn.setOnClickListener {
-            val usuario = etUsuario.text.toString()
-            val contrasenha = etContrasenha.text.toString()
+        btnIniciarSesion.setOnClickListener {
+            val usuario = etUsuario.text.trim().toString()
+            val contrasenha = etContrasenha.text.trim().toString()
 
             if (usuario.isEmpty() || contrasenha.isEmpty()){
                 Toast.makeText(this, "Rellena todos los campos", Toast.LENGTH_SHORT).show()
@@ -37,11 +43,18 @@ class LoginActivity : AppCompatActivity(){
                     startActivity(intent)
                     finish() //cierra LoginActivity para que no se pueda volver al darle al botón de atrás.
                 } else {
-                    Toast.makeText(this, "Usuario o contrasña incorrectos", Toast.LENGTH_SHORT).show()
+                    Toast.makeText(this, "Usuario o contraseña incorrectos", Toast.LENGTH_SHORT).show()
                 }
-
-
             }
+        }
+
+
+
+        //Pulsar el texto "Registrarse" -> Redirección a pantalla de registro
+        btnRegistrarse.setOnClickListener {
+            val intentRegistrateActivity = Intent(this, RegistrateActivity::class.java)
+            startActivity(intentRegistrateActivity)
+            finish()
         }
     }
 }

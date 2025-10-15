@@ -24,6 +24,10 @@
         </activity>
 
         <activity
+            android:name=".RegistrateActivity"
+            android:exported="true"/>
+
+        <activity
             android:name=".MainActivity"
             android:exported="true"/>
 

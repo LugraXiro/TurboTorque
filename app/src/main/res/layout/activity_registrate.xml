@@ -25,7 +25,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="1"
+        android:layout_weight="2"
         android:background="#85E4C6"
         android:orientation="vertical"
         android:gravity="center">
@@ -51,15 +51,24 @@
             android:layout_height="40dp"
             android:background="@drawable/tarjeta"
             android:hint="Contraseña"
-            android:inputType="textPassword"
-            android:layout_margin="10dp"/>
+            android:layout_margin="10dp"
+            android:inputType="textPassword"/>
+
+        <EditText
+            android:id="@+id/etInsertarContrasenhaOtraVez"
+            android:layout_width="267dp"
+            android:layout_height="40dp"
+            android:background="@drawable/tarjeta"
+            android:hint="Confirme contraseña"
+            android:layout_margin="10dp"
+            android:inputType="textPassword"/>
 
         <Button
-            android:id="@+id/btnIniciarSesion"
+            android:id="@+id/btnRegistrarse"
             android:layout_width="267dp"
             android:layout_height="48dp"
-            android:text="Iniciar sesión"
-            android:layout_margin="10dp" />
+            android:text="Registrarse"
+            android:layout_margin="10dp"/>
 
         <TextView
             android:id="@+id/textView2"

@@ -22,5 +22,8 @@ object RepositorioUsuarios {
         }
     }
 
-
+    // Comprueba si ya existe el usuario o no. True si se puede aplicar, False si ese nombre está ocupado
+    fun nombreUsuarioLibre(nombreInsertado: String): Boolean {
+        return !credencialesUsuario.containsKey(nombreInsertado)
+    }
 }
