@@ -10,11 +10,14 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.activity.OnBackPressedCallback
 import androidx.activity.OnBackPressedDispatcher
 import androidx.activity.addCallback
+import androidx.core.content.ContextCompat
 
 class RegistrateActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_registrate)
+
+        window.statusBarColor = ContextCompat.getColor(this, R.color.fondoBarraEstadoAndroid)
 
         val etUsuario = findViewById<EditText>(R.id.etInsertarUsuario)
         val etContrasenha = findViewById<EditText>(R.id.etInsertarContrasenha)

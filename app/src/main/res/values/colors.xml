@@ -3,7 +3,9 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="fondoPrincipal">#F2EAD3</color>
+    <color name="fondoBarraEstadoAndroid">#E4D4A5</color>
     <color name="fondoSplashScreen">#F2EAD3</color>
+    <color name="colorFuenteAzul">#3A1F4F</color>
 
 
     <!-- Botones -->
@@ -14,8 +16,10 @@
     <color name="botonRojoPulsado">#FF7D6C</color>
 
     <!-- Caja de texto -->
+    <color name="cttexto_FuenteAzul">#3A1F4F</color>
+    <color name="cttexto_hint">#807E7E7E</color>
     <color name="ctFondo">#F8BA63</color>
     <color name="ctbeige_fondo">#F2EAD3</color>
-    <color name="cttexto_oscuro">#272727</color>
+
     <color name="ctborde_caja">#B7A88A</color>
 </resources>

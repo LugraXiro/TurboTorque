@@ -17,5 +17,10 @@
         <item name="windowSplashScreenBackground">@color/fondoSplashScreen</item>
 
         <item name="postSplashScreenTheme">@style/Base.Theme.MyApp</item>
+
+        <!-- Barra de estado -->
+        <item name="android:statusBarColor">@color/fondoPrincipal</item>
+        <!-- Color de iconos de la barra (true = oscuros, false = claros) -->
+        <item name="android:windowLightStatusBar">false</item>
     </style>
 </resources>

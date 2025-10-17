@@ -17,9 +17,10 @@
 
         <ImageView
             android:id="@+id/imageView"
-            android:layout_width="250dp"
-            android:layout_height="250dp"
-            app:srcCompat="@drawable/splashscreen_logo" />
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            app:srcCompat="@drawable/logogpt_turbotorque"
+            android:layout_marginTop="60dp"/>
     </LinearLayout>
 
     <!-- Parte inferior: formulario -->
@@ -33,10 +34,11 @@
 
         <TextView
             android:id="@+id/textView1"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Inserte usuario y contraseña:"
-            android:textColor="@color/cttexto_oscuro"
+            android:fontFamily="@font/lato_regular"
+            android:text="@string/al_InsertUsuCon"
+            android:textColor="@color/colorFuenteAzul"
             android:textSize="16sp"
             android:layout_marginBottom="12dp" />
 
@@ -77,14 +79,16 @@
             android:id="@+id/textView2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:fontFamily="@font/lato_regular"
             android:text="o"
-            android:textColor="@color/cttexto_oscuro"
+            android:textColor="@color/cttexto_FuenteAzul"
             android:layout_marginBottom="5dp" />
 
         <TextView
             android:id="@+id/tvRegistrate"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:fontFamily="@font/lato_regular"
             android:textAlignment="center"
             android:text="@string/al_registrarse"
             android:textColor="#1565C0"

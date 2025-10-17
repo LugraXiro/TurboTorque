@@ -4,86 +4,87 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/fondoPrincipal"
     android:orientation="vertical">
 
+    <!-- Parte de arriba -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-        android:gravity="center"
-        android:background="#E48585">
+        android:gravity="center">
 
         <ImageView
             android:id="@+id/imageView"
-            android:layout_width="300dp"
-            android:layout_height="300dp"
-            app:srcCompat="@drawable/splashscreen_logo"
-            tools:layout_editor_absoluteX="40dp"
-            tools:layout_editor_absoluteY="-38dp" />
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            app:srcCompat="@drawable/logogpt_turbotorque"
+            android:layout_marginTop="60dp"/>
     </LinearLayout>
 
+    <!-- Parte de abajo -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="2"
-        android:background="#85E4C6"
         android:orientation="vertical"
-        android:gravity="center">
+        android:gravity="center"
+        android:padding="24dp">
 
 
         <TextView
             android:id="@+id/textView1"
-            android:layout_width="267dp"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Inserte usuario y contraseña:"/>
+            android:fontFamily="@font/lato_regular"
+            android:text="@string/al_InsertUsuCon"
+            android:textColor="@color/cttexto_FuenteAzul"
+            android:textSize="16sp"/>
 
-        <EditText
-            android:id="@+id/etInsertarUsuario"
-            android:layout_width="267dp"
-            android:layout_height="40dp"
-            android:background="@drawable/tarjeta"
-            android:hint="Usuario"
-            android:layout_margin="10dp"/>
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/CajaDeTexto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Usuario">
 
-        <EditText
-            android:id="@+id/etInsertarContrasenha"
-            android:layout_width="267dp"
-            android:layout_height="40dp"
-            android:background="@drawable/tarjeta"
-            android:hint="Contraseña"
-            android:layout_margin="10dp"
-            android:inputType="textPassword"/>
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/etInsertarUsuario"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
 
-        <EditText
-            android:id="@+id/etInsertarContrasenhaOtraVez"
-            android:layout_width="267dp"
-            android:layout_height="40dp"
-            android:background="@drawable/tarjeta"
-            android:hint="Confirme contraseña"
-            android:layout_margin="10dp"
-            android:inputType="textPassword"/>
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/CajaDeTexto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Contraseña">
 
-        <Button
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/etInsertarContrasenha"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/CajaDeTexto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Repite la contraseña">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/etInsertarContrasenhaOtraVez"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.button.MaterialButton
             android:id="@+id/btnRegistrarse"
-            android:layout_width="267dp"
-            android:layout_height="48dp"
-            android:text="Registrarse"
-            android:layout_margin="10dp"/>
-
-        <TextView
-            android:id="@+id/textView2"
-            android:layout_width="wrap_content"
+            style="@style/BotonVerde"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="o"
-            android:layout_marginBottom="5dp"/>
+            android:text="Registrarse"/>
 
-        <TextView
-            android:id="@+id/tvRegistrate"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Regístrate"
-            android:focusable="true"
-            android:clickable="true"
-            />
     </LinearLayout>
 </LinearLayout>

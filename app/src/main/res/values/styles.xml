@@ -24,7 +24,8 @@
     <!-- Caja de texto -->
     <style name="CajaDeTexto" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
         <item name="boxStrokeColor">@color/ctborde_caja</item>
-        <item name="android:textColorHint">@color/cttexto_oscuro</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:textColorHint">@color/cttexto_hint</item>
         <item name="android:padding">8dp</item>
         <item name="boxCornerRadiusTopStart">12dp</item>
         <item name="boxCornerRadiusTopEnd">12dp</item>

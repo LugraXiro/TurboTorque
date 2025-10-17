@@ -7,11 +7,14 @@ import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.content.ContextCompat
 
 class LoginActivity : AppCompatActivity(){
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
+
+        window.statusBarColor = ContextCompat.getColor(this, R.color.fondoBarraEstadoAndroid)
 
         val etUsuario = findViewById<EditText>(R.id.etInsertarUsuario)
         val etContrasenha = findViewById<EditText>(R.id.etInsertarContrasenha)

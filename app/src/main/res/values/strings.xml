@@ -4,4 +4,5 @@
     <!-- activity_login -->
     <string name="al_iniciarSesion">Iniciar Sesión</string>
     <string name="al_registrarse">Registrarse</string>
+    <string name="al_InsertUsuCon">Inserte usuario y contraseña:</string>
 </resources>

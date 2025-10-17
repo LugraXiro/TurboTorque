@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@color/fondoPrincipal"
+    tools:context=".MainActivity">
+
+    <!-- Parte superior: logo -->
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="4"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            app:srcCompat="@drawable/logogpt_turbotorque"/>
+    </LinearLayout>
+
+    <!-- Parte inferior: formulario -->
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="6"
+        android:padding="24dp">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal">
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/lato_regular"
+                android:text="@string/al_InsertUsuCon"
+                android:textColor="@color/colorFuenteAzul"
+                android:textSize="16sp"
+                android:layout_marginBottom="12dp" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/CajaDeTexto"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Usuario">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etInsertarUsuario"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/CajaDeTexto"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Contraseña">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etInsertarContrasenha"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textPassword" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btnIniciarSesion"
+                style="@style/BotonVerde"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/al_iniciarSesion"/>
+
+
+            <TextView
+                android:id="@+id/tvRegistrate"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/lato_regular"
+                android:textAlignment="center"
+                android:text="@string/al_registrarse"
+                android:textColor="#1565C0"
+                android:clickable="true"
+                android:focusable="true" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
