@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema general -->
+
+    <!-- Botón Verde Sin Pulsar-->
+    <style name="BotonVerde" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">@color/botonVerdeSinPulsar</item>
+        <item name="android:textColor">@color/botonColorFuente</item>
+        <item name="cornerRadius">20dp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+    </style>
+
+
+    <!-- Botón Rojo Sin Pulsar -->
+    <style name="BotonRojo" parent="Widget.MaterialComponents.Button">
+        <item name="android:backgroundTint">@color/botonRojoSinPulsar</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="cornerRadius">20dp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:fontFamily">@font/lato_regular</item>
+    </style>
+
+    <!-- Caja de texto -->
+    <style name="CajaDeTexto" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/ctborde_caja</item>
+        <item name="android:textColorHint">@color/cttexto_oscuro</item>
+        <item name="android:padding">8dp</item>
+        <item name="boxCornerRadiusTopStart">12dp</item>
+        <item name="boxCornerRadiusTopEnd">12dp</item>
+        <item name="boxCornerRadiusBottomStart">12dp</item>
+        <item name="boxCornerRadiusBottomEnd">12dp</item>
+    </style>
+</resources>

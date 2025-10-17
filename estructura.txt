@@ -1,0 +1,3939 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: E498-FF7D
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen
+
+17/10/2025  12:26    <DIR>          .
+17/10/2025  12:26    <DIR>          ..
+26/09/2025  19:24               225 .gitignore
+17/10/2025  11:26    <DIR>          .gradle
+17/10/2025  11:25    <DIR>          .idea
+27/09/2025  22:35    <DIR>          .kotlin
+15/10/2025  19:01    <DIR>          app
+26/09/2025  19:24               218 build.gradle.kts
+17/10/2025  12:26                 0 estructura.txt
+26/09/2025  19:24    <DIR>          gradle
+26/09/2025  19:24             1.346 gradle.properties
+26/09/2025  19:24             5.766 gradlew
+26/09/2025  19:24             2.763 gradlew.bat
+26/09/2025  19:24               449 local.properties
+26/09/2025  19:24               536 settings.gradle.kts
+               8 archivos         11.303 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git
+
+15/10/2025  19:36                37 COMMIT_EDITMSG
+26/09/2025  19:37               472 config
+26/09/2025  19:24                73 description
+15/10/2025  19:36               100 FETCH_HEAD
+26/09/2025  19:38                20 HEAD
+26/09/2025  19:24    <DIR>          hooks
+17/10/2025  11:22             7.552 index
+26/09/2025  19:24    <DIR>          info
+26/09/2025  19:26    <DIR>          logs
+15/10/2025  19:36    <DIR>          objects
+15/10/2025  19:36                41 ORIG_HEAD
+26/09/2025  19:34    <DIR>          refs
+               7 archivos          8.295 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\hooks
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24               478 applypatch-msg.sample
+26/09/2025  19:24               896 commit-msg.sample
+26/09/2025  19:24             4.726 fsmonitor-watchman.sample
+26/09/2025  19:24               189 post-update.sample
+26/09/2025  19:24               424 pre-applypatch.sample
+26/09/2025  19:24             1.649 pre-commit.sample
+26/09/2025  19:24               416 pre-merge-commit.sample
+26/09/2025  19:24             1.374 pre-push.sample
+26/09/2025  19:24             4.898 pre-rebase.sample
+26/09/2025  19:24               544 pre-receive.sample
+26/09/2025  19:24             1.492 prepare-commit-msg.sample
+26/09/2025  19:24             2.783 push-to-checkout.sample
+26/09/2025  19:24             2.308 sendemail-validate.sample
+26/09/2025  19:24             3.650 update.sample
+              14 archivos         25.827 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\info
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24               240 exclude
+               1 archivos            240 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\logs
+
+26/09/2025  19:26    <DIR>          .
+26/09/2025  19:26    <DIR>          ..
+15/10/2025  19:36             3.066 HEAD
+26/09/2025  19:27    <DIR>          refs
+               1 archivos          3.066 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\logs\refs
+
+26/09/2025  19:27    <DIR>          .
+26/09/2025  19:27    <DIR>          ..
+26/09/2025  19:28    <DIR>          heads
+26/09/2025  19:34    <DIR>          remotes
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\logs\refs\heads
+
+26/09/2025  19:28    <DIR>          .
+26/09/2025  19:28    <DIR>          ..
+15/10/2025  19:36             1.263 des
+26/09/2025  19:27               339 main
+26/09/2025  19:28               153 pre
+26/09/2025  19:28               153 pro
+               4 archivos          1.908 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\logs\refs\remotes
+
+26/09/2025  19:34    <DIR>          .
+26/09/2025  19:34    <DIR>          ..
+26/09/2025  19:37    <DIR>          origin
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\logs\refs\remotes\origin
+
+26/09/2025  19:37    <DIR>          .
+26/09/2025  19:37    <DIR>          ..
+15/10/2025  19:37               852 des
+26/09/2025  19:35               133 HEAD
+26/09/2025  19:34               142 main
+26/09/2025  19:37               142 pre
+26/09/2025  19:37               142 pro
+               5 archivos          1.411 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects
+
+15/10/2025  19:36    <DIR>          .
+15/10/2025  19:36    <DIR>          ..
+26/09/2025  19:25    <DIR>          01
+15/10/2025  19:36    <DIR>          03
+15/10/2025  19:36    <DIR>          04
+26/09/2025  19:25    <DIR>          05
+14/10/2025  15:11    <DIR>          06
+26/09/2025  19:25    <DIR>          07
+28/09/2025  18:16    <DIR>          09
+28/09/2025  18:16    <DIR>          0a
+15/10/2025  19:36    <DIR>          0e
+28/09/2025  18:16    <DIR>          0f
+26/09/2025  19:24    <DIR>          10
+02/10/2025  15:14    <DIR>          12
+26/09/2025  19:24    <DIR>          14
+26/09/2025  19:24    <DIR>          15
+27/09/2025  21:59    <DIR>          16
+27/09/2025  22:52    <DIR>          17
+14/10/2025  15:33    <DIR>          1a
+26/09/2025  19:24    <DIR>          1b
+14/10/2025  15:15    <DIR>          1d
+14/10/2025  15:20    <DIR>          1e
+15/10/2025  19:35    <DIR>          1f
+27/09/2025  22:53    <DIR>          20
+28/09/2025  18:20    <DIR>          21
+15/10/2025  18:01    <DIR>          23
+27/09/2025  21:59    <DIR>          24
+15/10/2025  19:35    <DIR>          25
+26/09/2025  19:24    <DIR>          26
+14/10/2025  15:33    <DIR>          28
+26/09/2025  19:24    <DIR>          2b
+26/09/2025  19:25    <DIR>          2c
+15/10/2025  19:36    <DIR>          30
+28/09/2025  18:20    <DIR>          34
+27/09/2025  22:53    <DIR>          36
+27/09/2025  21:59    <DIR>          39
+28/09/2025  18:20    <DIR>          3c
+14/10/2025  15:16    <DIR>          3e
+27/09/2025  22:53    <DIR>          3f
+14/10/2025  15:11    <DIR>          40
+15/10/2025  19:36    <DIR>          41
+15/10/2025  19:35    <DIR>          42
+03/10/2025  15:42    <DIR>          44
+26/09/2025  19:25    <DIR>          46
+26/09/2025  19:24    <DIR>          48
+27/09/2025  21:59    <DIR>          4a
+27/09/2025  22:52    <DIR>          4b
+26/09/2025  19:24    <DIR>          4d
+14/10/2025  15:11    <DIR>          4e
+26/09/2025  19:24    <DIR>          4f
+26/09/2025  19:25    <DIR>          51
+28/09/2025  18:20    <DIR>          53
+14/10/2025  15:33    <DIR>          58
+14/10/2025  15:33    <DIR>          5b
+14/10/2025  15:11    <DIR>          60
+27/09/2025  22:53    <DIR>          61
+26/09/2025  19:24    <DIR>          62
+27/09/2025  21:59    <DIR>          63
+15/10/2025  18:01    <DIR>          69
+10/10/2025  21:51    <DIR>          6a
+26/09/2025  19:25    <DIR>          6b
+27/09/2025  23:12    <DIR>          6f
+14/10/2025  15:33    <DIR>          71
+28/09/2025  18:20    <DIR>          73
+10/10/2025  21:51    <DIR>          76
+27/09/2025  22:53    <DIR>          77
+27/09/2025  21:59    <DIR>          79
+26/09/2025  19:25    <DIR>          7c
+15/10/2025  19:36    <DIR>          7e
+14/10/2025  15:11    <DIR>          7f
+26/09/2025  19:24    <DIR>          86
+10/10/2025  21:51    <DIR>          8a
+15/10/2025  19:36    <DIR>          8d
+14/10/2025  15:32    <DIR>          8e
+14/10/2025  15:33    <DIR>          8f
+28/09/2025  18:20    <DIR>          90
+02/10/2025  15:14    <DIR>          91
+26/09/2025  19:24    <DIR>          92
+27/09/2025  21:59    <DIR>          94
+26/09/2025  19:25    <DIR>          97
+28/09/2025  18:20    <DIR>          9b
+26/09/2025  19:25    <DIR>          9c
+15/10/2025  18:00    <DIR>          9d
+26/09/2025  19:24    <DIR>          9e
+26/09/2025  19:25    <DIR>          a3
+03/10/2025  16:13    <DIR>          a4
+15/10/2025  19:35    <DIR>          a6
+27/09/2025  21:59    <DIR>          a7
+14/10/2025  15:33    <DIR>          a8
+26/09/2025  19:24    <DIR>          a9
+26/09/2025  19:24    <DIR>          aa
+14/10/2025  15:11    <DIR>          ad
+27/09/2025  22:52    <DIR>          b1
+27/09/2025  21:59    <DIR>          b2
+14/10/2025  15:11    <DIR>          b5
+27/09/2025  21:59    <DIR>          b8
+26/09/2025  19:25    <DIR>          be
+26/09/2025  19:25    <DIR>          c0
+26/09/2025  19:24    <DIR>          c2
+15/10/2025  19:36    <DIR>          c4
+15/10/2025  19:35    <DIR>          c7
+27/09/2025  22:52    <DIR>          c8
+15/10/2025  19:36    <DIR>          c9
+27/09/2025  22:53    <DIR>          cb
+15/10/2025  19:36    <DIR>          cc
+14/10/2025  15:33    <DIR>          cd
+14/10/2025  15:11    <DIR>          ce
+27/09/2025  23:05    <DIR>          d0
+15/10/2025  17:59    <DIR>          d2
+14/10/2025  15:12    <DIR>          d3
+02/10/2025  15:14    <DIR>          d4
+02/10/2025  16:30    <DIR>          d6
+28/09/2025  18:20    <DIR>          d7
+14/10/2025  15:11    <DIR>          d9
+26/09/2025  19:25    <DIR>          df
+14/10/2025  15:11    <DIR>          e0
+10/10/2025  21:51    <DIR>          e2
+28/09/2025  18:20    <DIR>          e5
+26/09/2025  19:24    <DIR>          e7
+15/10/2025  19:35    <DIR>          ea
+27/09/2025  22:53    <DIR>          eb
+28/09/2025  18:20    <DIR>          f1
+27/09/2025  22:53    <DIR>          f2
+27/09/2025  22:52    <DIR>          f6
+15/10/2025  19:36    <DIR>          f7
+27/09/2025  21:59    <DIR>          f8
+26/09/2025  19:25    <DIR>          fa
+26/09/2025  19:24    <DIR>          fc
+27/09/2025  22:53    <DIR>          fe
+26/09/2025  19:24    <DIR>          info
+26/09/2025  19:24    <DIR>          pack
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\01
+
+26/09/2025  19:25    <DIR>          .
+26/09/2025  19:25    <DIR>          ..
+26/09/2025  19:25               109 4b36c13322c2e788946da53f586c8ad499082e
+               1 archivos            109 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\03
+
+15/10/2025  19:36    <DIR>          .
+15/10/2025  19:36    <DIR>          ..
+15/10/2025  19:36                49 e1341708e31950a2f5be7499b871c6c4ca98b0
+               1 archivos             49 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\04
+
+15/10/2025  19:36    <DIR>          .
+15/10/2025  19:36    <DIR>          ..
+15/10/2025  19:36               363 da61ecc66ad27b17337c3ae8ecb27ab07097b9
+               1 archivos            363 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\05
+
+26/09/2025  19:25    <DIR>          .
+26/09/2025  19:25    <DIR>          ..
+26/09/2025  19:25                50 343c5be37ef7ad939adafe8da613be195a2d8a
+               1 archivos             50 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\06
+
+14/10/2025  15:11    <DIR>          .
+14/10/2025  15:11    <DIR>          ..
+14/10/2025  15:11               122 60b3808389856e3f56723fb88a5a873adfd52b
+26/09/2025  19:25                55 949a5ebb28004ad57c9dad899bd707413120a5
+               2 archivos            177 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\07
+
+26/09/2025  19:25    <DIR>          .
+26/09/2025  19:25    <DIR>          ..
+26/09/2025  19:25                92 615786dd22a6c2df1ebd0b3a53fcd204d49d6c
+26/09/2025  19:24               460 d5da9cbf141911847041df5d7b87f0dd5ef9d4
+               2 archivos            552 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\09
+
+28/09/2025  18:16    <DIR>          .
+28/09/2025  18:16    <DIR>          ..
+28/09/2025  18:16               516 5204527b1ee8bf7d41a9a3dc9a4f67329b8d6e
+               1 archivos            516 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\0a
+
+28/09/2025  18:16    <DIR>          .
+28/09/2025  18:16    <DIR>          ..
+26/09/2025  19:25                60 3fc0c996b29e2784ea17c023bdeb3041f2cd3a
+28/09/2025  18:16               402 69f582dfa5c375d748cdc65d89d0dded239e37
+               2 archivos            462 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\0e
+
+15/10/2025  19:36    <DIR>          .
+15/10/2025  19:36    <DIR>          ..
+15/10/2025  19:36               122 34e1721859be4c3ac919c292febe69b89f0925
+26/09/2025  19:25                55 6c79c1351fcb1d475c391f44f547129d907921
+               2 archivos            177 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\0f
+
+28/09/2025  18:16    <DIR>          .
+28/09/2025  18:16    <DIR>          ..
+27/09/2025  22:53               145 c8e1bdef228dfc27a3513de79d53982091bb2a
+28/09/2025  18:16             8.773 d3bef5410deb1323b2db8514412b566b7e6e09
+               2 archivos          8.918 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\10
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24             1.232 7acd32c4e687021ef32db511e8a206129b88ec
+               1 archivos          1.232 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\12
+
+02/10/2025  15:14    <DIR>          .
+02/10/2025  15:14    <DIR>          ..
+26/09/2025  19:25                92 17e928894cecf247fd980964e5e9f7fad16e4e
+27/09/2025  22:52               148 19b509f098479c6674bbb228c2331631ac72f9
+02/10/2025  15:14               515 8a7069d8d8215188be76d6c204bd7cd293d156
+               3 archivos            755 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\14
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24               227 f73970624afa6a829b5ae7b8eb19e6620162e7
+               1 archivos            227 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\15
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24               409 34cd5d1ddf9ff7a092d6c862f16de6a9b0e648
+               1 archivos            409 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\16
+
+27/09/2025  21:59    <DIR>          .
+27/09/2025  21:59    <DIR>          ..
+27/09/2025  21:59               308 660f1d80a1f5cde389ecce783051eb8f68223d
+26/09/2025  19:25                53 e856a678cd919c6c9dc62494051e07d163c9b7
+26/09/2025  19:25                62 fcc6766fbc6394d4954039eb033a4881e2e91e
+               3 archivos            423 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\17
+
+27/09/2025  22:52    <DIR>          .
+27/09/2025  22:52    <DIR>          ..
+27/09/2025  22:52               530 dfcf48a30f519cb7ec37c67cb9dc9fa7856196
+               1 archivos            530 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\1a
+
+14/10/2025  15:33    <DIR>          .
+14/10/2025  15:33    <DIR>          ..
+14/10/2025  15:33               184 027899c6233700ebe259c93563567f271bd417
+               1 archivos            184 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\1b
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24             3.939 9a6956b3acdc11f40ce2bb3f6efbd845cc243f
+               1 archivos          3.939 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\1d
+
+14/10/2025  15:15    <DIR>          .
+14/10/2025  15:15    <DIR>          ..
+14/10/2025  15:15            21.054 6d525e3bb7e2e103efaed95870a0d30f5ce60b
+               1 archivos         21.054 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\1e
+
+14/10/2025  15:20    <DIR>          .
+14/10/2025  15:20    <DIR>          ..
+14/10/2025  15:11                45 a851c9e318ad8ed8ac8d1225c9b5d1c9688417
+14/10/2025  15:20               218 f5e7222968935a8dff1303d9216cb76877327f
+               2 archivos            263 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\1f
+
+15/10/2025  19:35    <DIR>          .
+15/10/2025  19:35    <DIR>          ..
+15/10/2025  19:35               719 38debd0b3f826553d469a6cf110aad04f65634
+               1 archivos            719 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\20
+
+27/09/2025  22:53    <DIR>          .
+27/09/2025  22:53    <DIR>          ..
+27/09/2025  22:53               122 30b5db7532b5d0a9fe12bce8bc6467f83468bb
+27/09/2025  22:53                49 ab431243b42b3eab117a2ae5c51e87a4c6d1f4
+26/09/2025  19:24               738 e2a01520742aff4ec9ce578ed4fe5f3a76fe77
+               3 archivos            909 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\21
+
+28/09/2025  18:20    <DIR>          .
+28/09/2025  18:20    <DIR>          ..
+28/09/2025  18:20                53 ec56a8a024eca668cf96cbfb23dc27cb061eef
+               1 archivos             53 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\23
+
+15/10/2025  18:01    <DIR>          .
+15/10/2025  18:01    <DIR>          ..
+15/10/2025  18:01               760 baa7535be99c91cd6d3f470244ee85140706a1
+               1 archivos            760 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\24
+
+27/09/2025  21:59    <DIR>          .
+27/09/2025  21:59    <DIR>          ..
+27/09/2025  21:59               306 27acab4fdcf36eaa086165a15f747a5c3ffc1e
+               1 archivos            306 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\25
+
+15/10/2025  19:35    <DIR>          .
+15/10/2025  19:35    <DIR>          ..
+15/10/2025  19:35               936 cf27c6e3d79c7cd31f217d0d659712de2f4c8c
+               1 archivos            936 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\26
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24                63 d33521af10bcc7fd8cea344038eaaeb78d0ef5
+               1 archivos             63 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\28
+
+14/10/2025  15:33    <DIR>          .
+14/10/2025  15:33    <DIR>          ..
+26/09/2025  19:25                71 2c3dcdd1887c758712627f385b45c49aba28f1
+14/10/2025  15:33               188 61b2ab3b27a6fe5bc7668c9b18260247c341a4
+26/09/2025  19:24             2.905 d4b77f9f036a47549d47db79c16788749dca10
+               3 archivos          3.164 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\2b
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24               677 068d11462a4b96669193de13a711a3a36220a0
+               1 archivos            677 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\2c
+
+26/09/2025  19:25    <DIR>          .
+26/09/2025  19:25    <DIR>          ..
+26/09/2025  19:25                50 4c89b9a18e111a32e506c5de4ca2ce2dd62f3f
+26/09/2025  19:25                45 9087032d2c7ef074cbeaf0f1c3f613f57430a9
+               2 archivos             95 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\30
+
+15/10/2025  19:36    <DIR>          .
+15/10/2025  19:36    <DIR>          ..
+15/10/2025  19:36                46 7e742d56cb3201bba7928468680d152089a41f
+               1 archivos             46 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\34
+
+28/09/2025  18:20    <DIR>          .
+28/09/2025  18:20    <DIR>          ..
+27/09/2025  22:53               191 147323759bb4a6b29eed2969be57c32bf5aa10
+28/09/2025  18:20               117 3e7161bbdcdd84e77c6237a88c8dd81511bfa4
+               2 archivos            308 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\36
+
+27/09/2025  22:53    <DIR>          .
+27/09/2025  22:53    <DIR>          ..
+27/09/2025  22:53                49 ab6635e7207b9ab79f575402ed500082d41925
+               1 archivos             49 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\39
+
+27/09/2025  21:59    <DIR>          .
+27/09/2025  21:59    <DIR>          ..
+27/09/2025  21:59               180 9bcaf197a8ed634e4e935fd22bce543dc334db
+               1 archivos            180 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\3c
+
+28/09/2025  18:20    <DIR>          .
+28/09/2025  18:20    <DIR>          ..
+28/09/2025  18:20               337 93a1a082880e1bfa481c84de84ca00bdc52731
+               1 archivos            337 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\3e
+
+14/10/2025  15:16    <DIR>          .
+14/10/2025  15:16    <DIR>          ..
+14/10/2025  15:16               211 7c76567993922acb7f25de157314316370029e
+               1 archivos            211 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\3f
+
+27/09/2025  22:53    <DIR>          .
+27/09/2025  22:53    <DIR>          ..
+27/09/2025  22:53                45 f5642f8b534653605bf5dff78482980dda55c2
+               1 archivos             45 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\40
+
+14/10/2025  15:11    <DIR>          .
+14/10/2025  15:11    <DIR>          ..
+26/09/2025  19:24               168 235f52ac5d672856c55e1cfa557bd79aead9c3
+14/10/2025  15:11               178 ae5f8cccb787d00ea89b3bd9fecf15a8e2b6dc
+               2 archivos            346 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\41
+
+15/10/2025  19:36    <DIR>          .
+15/10/2025  19:36    <DIR>          ..
+15/10/2025  19:36               165 0b3c1c36f2d8fafdf3981cea3eebf7a2f96902
+               1 archivos            165 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\42
+
+15/10/2025  19:35    <DIR>          .
+15/10/2025  19:35    <DIR>          ..
+26/09/2025  19:25                93 022c214b8c47a5d5f9774197529f763d5716a0
+15/10/2025  19:35               858 163b03f2a35b8b7510b1bfccf2f0b2fa4260b7
+26/09/2025  19:24                21 afabfd2abebf31384ca7797186a27a4b7dbee8
+               3 archivos            972 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\44
+
+03/10/2025  15:42    <DIR>          .
+03/10/2025  15:42    <DIR>          ..
+03/10/2025  15:42                72 e5a60f27af4f780dbc454dff78ddd23121209c
+               1 archivos             72 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\46
+
+26/09/2025  19:25    <DIR>          .
+26/09/2025  19:25    <DIR>          ..
+26/09/2025  19:25                70 123c8a05f7c8ae0d069692786b4f3b1a0648d7
+               1 archivos             70 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\48
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24               438 1bb434814107eb79d7a30b676d344b0df2f8ce
+               1 archivos            438 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\4a
+
+27/09/2025  21:59    <DIR>          .
+27/09/2025  21:59    <DIR>          ..
+27/09/2025  21:59               161 53bee8cb948a6e677a1a320d0ecfbe26d4062e
+26/09/2025  19:25               123 90e2b7d827278f3efe02c414ecf0a12f9f6226
+               2 archivos            284 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\4b
+
+27/09/2025  22:52    <DIR>          .
+27/09/2025  22:52    <DIR>          ..
+27/09/2025  22:52               141 38406bbaf290877a1fc07a65b3452e75462988
+               1 archivos            141 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\4d
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24               291 f925582478cf0d469c4cff9a4bb50859f3230a
+               1 archivos            291 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\4e
+
+14/10/2025  15:11    <DIR>          .
+14/10/2025  15:11    <DIR>          ..
+14/10/2025  15:11                53 ad9366c70fa1612ac35087c8be89469dfc3622
+26/09/2025  19:24               368 c5f723cd01fd16be7c271a996f7c86d220f112
+               2 archivos            421 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\4f
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24             1.002 0f1d64e58ba64d180ce43ee13bf9a17835fbca
+26/09/2025  19:24             2.453 906e0c811fc9e230eb44819f509cd0627f2600
+               2 archivos          3.455 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\51
+
+26/09/2025  19:25    <DIR>          .
+26/09/2025  19:25    <DIR>          ..
+26/09/2025  19:25               101 6abe05699b4a4d708524ba0d8a6ebbd734ec1a
+               1 archivos            101 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\53
+
+28/09/2025  18:20    <DIR>          .
+28/09/2025  18:20    <DIR>          ..
+28/09/2025  18:20                45 0281cd7fbc5af78888a360ae5a04e0ce48b1ac
+               1 archivos             45 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\58
+
+14/10/2025  15:33    <DIR>          .
+14/10/2025  15:33    <DIR>          ..
+14/10/2025  15:33               336 1180beeb3aca1e41674df3581bfb9602b97076
+26/09/2025  19:24               365 df1ab896d7a288778ac7202e457b389fe75db5
+               2 archivos            701 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\5b
+
+14/10/2025  15:33    <DIR>          .
+14/10/2025  15:33    <DIR>          ..
+14/10/2025  15:33                91 4c92f383766ebb6dd379bb65d81bc90e890f75
+               1 archivos             91 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\60
+
+14/10/2025  15:11    <DIR>          .
+14/10/2025  15:11    <DIR>          ..
+14/10/2025  15:11               410 060d748085ce88d25fd51c1829a7d4faa86c35
+26/09/2025  19:25               306 7b73f3a87d4a84811011c0c0c4a882167d33b1
+10/10/2025  21:51               755 be734b868043d8ecb6edef85ae68c58738e09f
+               3 archivos          1.471 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\61
+
+27/09/2025  22:53    <DIR>          .
+27/09/2025  22:53    <DIR>          ..
+27/09/2025  22:53               337 b642ed600183e51634ec9ca78db85697521a1e
+               1 archivos            337 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\62
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24             1.793 b611da081676d42f6c3f78a2c91e7bcedddedb
+               1 archivos          1.793 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\63
+
+27/09/2025  21:59    <DIR>          .
+27/09/2025  21:59    <DIR>          ..
+27/09/2025  21:59               308 9c779c30dcea44b3fa466e6bdad0eee2f3cc8f
+               1 archivos            308 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\69
+
+15/10/2025  18:01    <DIR>          .
+15/10/2025  18:01    <DIR>          ..
+15/10/2025  18:01               399 e7d82c9e3668840e36d8ade7893d0851e82a99
+               1 archivos            399 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\6a
+
+10/10/2025  21:51    <DIR>          .
+10/10/2025  21:51    <DIR>          ..
+10/10/2025  21:51               474 f778c872aafad075d84a5654ea38525c0ef87f
+               1 archivos            474 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\6b
+
+26/09/2025  19:25    <DIR>          .
+26/09/2025  19:25    <DIR>          ..
+26/09/2025  19:25               117 cf0d0a3cc7d6cf1bf1e0afe9be814e395160d5
+               1 archivos            117 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\6f
+
+27/09/2025  23:12    <DIR>          .
+27/09/2025  23:12    <DIR>          ..
+26/09/2025  19:24               180 3b755bf50c6b03d8714a9c6184705e6a08389f
+26/09/2025  19:24               510 55a922e859dc36952d7ad7eab5aed430c5a8a6
+27/09/2025  23:12             3.137 c6eabb8b14fa886f51ca872f65fbbff4bf57ca
+               3 archivos          3.827 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\71
+
+14/10/2025  15:33    <DIR>          .
+14/10/2025  15:33    <DIR>          ..
+14/10/2025  15:33               363 ba9149c51808828bece296fa2470227a668465
+               1 archivos            363 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\73
+
+28/09/2025  18:20    <DIR>          .
+28/09/2025  18:20    <DIR>          ..
+28/09/2025  18:20               145 cfbda3a7a3f0ef2b54a317162865b3c7ad0eb5
+               1 archivos            145 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\76
+
+10/10/2025  21:51    <DIR>          .
+10/10/2025  21:51    <DIR>          ..
+10/10/2025  21:51               427 33d3c62063188bae27ba294c6f1c0ec38d3276
+27/09/2025  21:59               558 43783a82f60b3b876fe58a9314fb50520df486
+               2 archivos            985 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\77
+
+27/09/2025  22:53    <DIR>          .
+27/09/2025  22:53    <DIR>          ..
+27/09/2025  22:53                69 4da9d70135e9adccde464cafd994ce94fdee5a
+               1 archivos             69 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\79
+
+27/09/2025  21:59    <DIR>          .
+27/09/2025  21:59    <DIR>          ..
+27/09/2025  21:59               133 ee123c2b23e069e35ed634d687e17f731cc702
+               1 archivos            133 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\7c
+
+26/09/2025  19:25    <DIR>          .
+26/09/2025  19:25    <DIR>          ..
+26/09/2025  19:25               101 262462995e07d753e232ff3b19a20c3f5657f4
+               1 archivos            101 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\7e
+
+15/10/2025  19:36    <DIR>          .
+15/10/2025  19:36    <DIR>          ..
+27/09/2025  22:53               109 0e6c9a4acefbcf19558e69a0d4f0da717f0afd
+28/09/2025  18:20               122 7664729b5bcab7e9757fb35b3ace5bf346a33b
+14/10/2025  15:32               151 84da44c63fcadb339b04b03f831e1351fa4122
+14/10/2025  15:33               122 dc34cc418d38bbc0ebd84bdd71bb8a2afe7040
+15/10/2025  19:36                53 ecf948d0672ebd76bbb1dec37f253f9f6c2c1d
+               5 archivos            557 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\7f
+
+14/10/2025  15:11    <DIR>          .
+14/10/2025  15:11    <DIR>          ..
+14/10/2025  15:11               203 c5deb18b0208a57cb75f69b31eb235dd21e680
+               1 archivos            203 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\86
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24               325 a5d977951ccdfedf6e21f7fe07f1ac54b3b2ce
+               1 archivos            325 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\8a
+
+10/10/2025  21:51    <DIR>          .
+10/10/2025  21:51    <DIR>          ..
+26/09/2025  19:25                45 9cd61ae1dd2428f0394a5837a6465e83c5e5aa
+10/10/2025  21:51               404 fa7399cec8f6ce7cb7d2356a66b0058c466147
+               2 archivos            449 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\8d
+
+15/10/2025  19:36    <DIR>          .
+15/10/2025  19:36    <DIR>          ..
+15/10/2025  19:36               336 3acb9cb6fdb193f85e55f31450783721128171
+15/10/2025  19:35               492 acc504a4676cdad46060df802635886a0a3bd0
+               2 archivos            828 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\8e
+
+14/10/2025  15:32    <DIR>          .
+14/10/2025  15:32    <DIR>          ..
+26/09/2025  19:25                46 36096b69eb8e88d7d41ccec7bf445a0fa472c4
+14/10/2025  15:32               471 f003a092a02f7dd20dfb4bd1c46c58a13f4304
+               2 archivos            517 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\8f
+
+14/10/2025  15:33    <DIR>          .
+14/10/2025  15:33    <DIR>          ..
+14/10/2025  15:33               167 4284fcacc716197f45c5da4cb138b0893a69a9
+26/09/2025  19:26               127 7169ace41220c6bd66d5e3a4aa0091be2caee0
+               2 archivos            294 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\90
+
+28/09/2025  18:20    <DIR>          .
+28/09/2025  18:20    <DIR>          ..
+28/09/2025  18:20                60 ee3b5f84f68c03da5606382d8312362b89e0ce
+               1 archivos             60 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\91
+
+02/10/2025  15:14    <DIR>          .
+02/10/2025  15:14    <DIR>          ..
+26/09/2025  19:24             7.799 26ae37cbc3587421d6889eadd1d91fbf1994d4
+02/10/2025  15:14               195 f95584ddee9f617685b7fa7225acc588370dc4
+               2 archivos          7.994 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\92
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24               155 2f551105e1b8c176391b38c9436d45f172b546
+26/09/2025  19:24             5.935 87f5083623b375139afb391af71cc533a7dd37
+               2 archivos          6.090 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\94
+
+27/09/2025  21:59    <DIR>          .
+27/09/2025  21:59    <DIR>          ..
+26/09/2025  19:24             1.921 8a3070fe34c611c42c0d3ad3013a0dce358be0
+27/09/2025  21:59               155 a25f7f4cb416c083d265558da75d457237d671
+               2 archivos          2.076 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\97
+
+26/09/2025  19:25    <DIR>          .
+26/09/2025  19:25    <DIR>          ..
+26/09/2025  19:25                53 b24818b7b7f68226d6a014fba5f89d7d5c721e
+               1 archivos             53 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\9b
+
+28/09/2025  18:20    <DIR>          .
+28/09/2025  18:20    <DIR>          ..
+28/09/2025  18:20               186 3846be54ae15678e60012f20d321cd27c0c9f8
+               1 archivos            186 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\9c
+
+26/09/2025  19:25    <DIR>          .
+26/09/2025  19:25    <DIR>          ..
+26/09/2025  19:25                45 9363179fdeb8cbf835492802c6179eaaac3a14
+26/09/2025  19:24                74 fd9734246d6771468382415abf73c81adec612
+               2 archivos            119 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\9d
+
+15/10/2025  18:00    <DIR>          .
+15/10/2025  18:00    <DIR>          ..
+14/10/2025  15:11               108 6393e7a5a968f9606dc4e524c9338c34caa877
+15/10/2025  18:01               694 fe08ed569b69f309e3e858c81708cc38142fcf
+               2 archivos            802 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\9e
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24               306 e9997b0b4726e57c27b2f7b21462b604ff8a88
+               1 archivos            306 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\a3
+
+26/09/2025  19:25    <DIR>          .
+26/09/2025  19:25    <DIR>          ..
+26/09/2025  19:24               249 7d1b71f212040739250ad64a051af6194aaf3f
+26/09/2025  19:25                92 de34961096076e3ad578310142d8e33859d1bb
+               2 archivos            341 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\a4
+
+03/10/2025  16:13    <DIR>          .
+03/10/2025  16:13    <DIR>          ..
+03/10/2025  16:13               404 c2de4928b77586058215a76cebbd87bb3a2080
+               1 archivos            404 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\a6
+
+15/10/2025  19:35    <DIR>          .
+15/10/2025  19:35    <DIR>          ..
+15/10/2025  19:35               485 bdff298201803f8422d49de7460d8e6600d70d
+               1 archivos            485 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\a7
+
+27/09/2025  21:59    <DIR>          .
+27/09/2025  21:59    <DIR>          ..
+27/09/2025  21:59                95 75c02f67ebf941fe03e8de5285c5e580dfa5a0
+               1 archivos             95 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\a8
+
+14/10/2025  15:33    <DIR>          .
+14/10/2025  15:33    <DIR>          ..
+14/10/2025  15:33               109 3106e5d152b1dddbbcdab4461e5a656481e958
+14/10/2025  15:11                49 536c13624ed0d68a64aacb628016d0a8b31ca3
+27/09/2025  22:53               116 7c36e471b42a238da3a58fdac5cb04b4bcb6c4
+10/10/2025  22:00               114 b409b1d1a67ab9d6be93a1920501644837a571
+               4 archivos            388 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\a9
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24               242 6bae21ca1f9c9ee54f7549713abe69888bc964
+               1 archivos            242 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\aa
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24               157 724b77071afcbd9bb398053e05adaf7ac9405a
+26/09/2025  19:24             3.865 7d6427e6fa1074b79ccd52ef67ac15c5637e85
+               2 archivos          4.022 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\ad
+
+14/10/2025  15:11    <DIR>          .
+14/10/2025  15:11    <DIR>          ..
+14/10/2025  15:11               335 67de8f54a65aaede365341d3491859bf469420
+               1 archivos            335 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\b1
+
+27/09/2025  22:52    <DIR>          .
+27/09/2025  22:52    <DIR>          ..
+27/09/2025  22:52               423 fa5c0265b79f7cb9a37a60698048681d71e4d6
+               1 archivos            423 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\b2
+
+27/09/2025  21:59    <DIR>          .
+27/09/2025  21:59    <DIR>          ..
+27/09/2025  21:59               197 68ef36cd2de3a14ddddf25aa9f5d4e95731e18
+27/09/2025  21:59               255 c751a35c77d4f7b713fe3bfc2cfb693e4d984f
+26/09/2025  19:24             2.919 dfe3d1ba5cf3ee31b3ecc1ced89044a1f3b7a9
+               3 archivos          3.371 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\b5
+
+14/10/2025  15:11    <DIR>          .
+14/10/2025  15:11    <DIR>          ..
+14/10/2025  15:11               167 1d3d5030b0d9091b8aed3ad82b532c153ae42e
+26/09/2025  19:25                96 9b294da2594c4f39f1ebaf73372510c2f634ff
+               2 archivos            263 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\b8
+
+27/09/2025  21:59    <DIR>          .
+27/09/2025  21:59    <DIR>          ..
+27/09/2025  21:59               145 6273d9424b73937ca6ad7933f6b7eeb60f4a3d
+26/09/2025  19:25                53 a5e3f5cf32c96e881541ac13a7b8bde62c8d87
+               2 archivos            198 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\be
+
+26/09/2025  19:25    <DIR>          .
+26/09/2025  19:25    <DIR>          ..
+26/09/2025  19:25                50 b8d94c628383cc2acd8bc318991b7d89c1f79a
+               1 archivos             50 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\c0
+
+26/09/2025  19:25    <DIR>          .
+26/09/2025  19:25    <DIR>          ..
+26/09/2025  19:25                92 33b6b2e70a2d6993c415f583601bc6745f63fb
+               1 archivos             92 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\c2
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24             1.425 09e78ecd372343283f4157dcfd918ec5165bb3
+               1 archivos          1.425 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\c4
+
+15/10/2025  19:36    <DIR>          .
+15/10/2025  19:36    <DIR>          ..
+15/10/2025  19:36               174 37cd9ea312eef1a88f7dea47fc1b3ccd679be9
+26/09/2025  19:24               415 4280bfc2a2b64c0bc73dfe587ee4c3dce279b7
+               2 archivos            589 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\c7
+
+15/10/2025  19:35    <DIR>          .
+15/10/2025  19:35    <DIR>          ..
+15/10/2025  19:35               692 bd3c950514911031a0985b8b6b47c44a27db32
+               1 archivos            692 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\c8
+
+27/09/2025  22:52    <DIR>          .
+27/09/2025  22:52    <DIR>          ..
+26/09/2025  19:24               117 524cd961d27b6695e755c6ef2d4d58cf38431e
+27/09/2025  22:52               410 c48795119026021c1fdcb777242349017e6938
+               2 archivos            527 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\c9
+
+15/10/2025  19:36    <DIR>          .
+15/10/2025  19:36    <DIR>          ..
+15/10/2025  19:36               127 1df8de5532754cfede1a3bdd7fc3a9b1ed59a9
+               1 archivos            127 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\cb
+
+27/09/2025  22:53    <DIR>          .
+27/09/2025  22:53    <DIR>          ..
+27/09/2025  22:53               337 3bfacb97bf7062bc469ad88f25f2a78de55e0d
+               1 archivos            337 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\cc
+
+15/10/2025  19:36    <DIR>          .
+15/10/2025  19:36    <DIR>          ..
+15/10/2025  19:36               109 9675726edca5b87a46899c483013ee06cd326e
+14/10/2025  15:16               143 df103464fa42317d26149d7d72b7511a53e151
+               2 archivos            252 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\cd
+
+14/10/2025  15:33    <DIR>          .
+14/10/2025  15:33    <DIR>          ..
+14/10/2025  15:33                89 7c09f63d28e4cd41915d43ec2db9369d3e6391
+02/10/2025  15:35               171 c89f25a45f5b45f87938d438ba2c302f7499d8
+               2 archivos            260 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\ce
+
+14/10/2025  15:11    <DIR>          .
+14/10/2025  15:11    <DIR>          ..
+14/10/2025  15:11               335 31f1fac83bcda362d5cbce6d5875ccec68037c
+               1 archivos            335 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\d0
+
+27/09/2025  23:05    <DIR>          .
+27/09/2025  23:05    <DIR>          ..
+27/09/2025  23:05                69 2379eb21df6e677634c1b86360d900856143eb
+27/09/2025  21:59               376 e238108aecda10a52b25cd35c4836b13e7bf9e
+               2 archivos            445 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\d2
+
+15/10/2025  17:59    <DIR>          .
+15/10/2025  17:59    <DIR>          ..
+14/10/2025  15:16             1.841 226ac01c057907ca1fc71f1d3390d3deea9ca1
+15/10/2025  18:01               754 88f1306167b64a082579d0d2b27c06127a5df3
+               2 archivos          2.595 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\d3
+
+14/10/2025  15:12    <DIR>          .
+14/10/2025  15:12    <DIR>          ..
+14/10/2025  15:12               487 55e376e116ba40df455384b3d2f789affb5090
+               1 archivos            487 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\d4
+
+02/10/2025  15:14    <DIR>          .
+02/10/2025  15:14    <DIR>          ..
+02/10/2025  15:14               377 8581d270f1607b9adce1aa049cff9939631442
+               1 archivos            377 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\d6
+
+02/10/2025  16:30    <DIR>          .
+02/10/2025  16:30    <DIR>          ..
+02/10/2025  16:30                71 9829d938073632aa6afeefd8eda7497f251bfb
+               1 archivos             71 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\d7
+
+28/09/2025  18:20    <DIR>          .
+28/09/2025  18:20    <DIR>          ..
+28/09/2025  18:20               336 704160ec50f8950eaa3f8c2562827cb2ce2a1c
+               1 archivos            336 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\d9
+
+14/10/2025  15:11    <DIR>          .
+14/10/2025  15:11    <DIR>          ..
+28/09/2025  18:20                50 6a304a27edf63e83ebb2c68372312128f2b955
+14/10/2025  15:11               132 6f642159b448c2ac15fd871a0db9b5b7477c37
+               2 archivos            182 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\df
+
+26/09/2025  19:25    <DIR>          .
+26/09/2025  19:25    <DIR>          ..
+26/09/2025  19:25                62 9af4d5b885b4cf699a9be59cd51ea898e75620
+               1 archivos             62 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\e0
+
+14/10/2025  15:11    <DIR>          .
+14/10/2025  15:11    <DIR>          ..
+14/10/2025  15:11                90 b7f92000b4e453e1ce591e8f2c896081d9ec78
+               1 archivos             90 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\e2
+
+10/10/2025  21:51    <DIR>          .
+10/10/2025  21:51    <DIR>          ..
+26/09/2025  19:25                96 ba2423bed74d3fff6304705f8db684062d5d8f
+10/10/2025  21:51               543 deed186c7e0843dd900fe863502d8598bff7af
+               2 archivos            639 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\e5
+
+28/09/2025  18:20    <DIR>          .
+28/09/2025  18:20    <DIR>          ..
+28/09/2025  18:20               108 25903ca6411998eac6c0556ce470dd1fc5728a
+26/09/2025  19:25               336 446f77687d5ded480690cd80790238385cb66a
+               2 archivos            444 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\e7
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24            53.470 08b1c023ec8b20f512888fe07c5bd3ff77bb8f
+               1 archivos         53.470 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\ea
+
+15/10/2025  19:35    <DIR>          .
+15/10/2025  19:35    <DIR>          ..
+26/09/2025  19:25               166 cd7ac704f48b77a1093599f889910b8879dda4
+15/10/2025  19:35               552 e125051c625bf266a6a9878115d8e333692340
+               2 archivos            718 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\eb
+
+27/09/2025  22:53    <DIR>          .
+27/09/2025  22:53    <DIR>          ..
+27/09/2025  22:53               167 06c6c7992acffaa6acbea7adcb750e6f95c854
+               1 archivos            167 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\f1
+
+28/09/2025  18:20    <DIR>          .
+28/09/2025  18:20    <DIR>          ..
+28/09/2025  18:20               167 c0d987027f2f449995503434c0213e4f46220e
+               1 archivos            167 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\f2
+
+27/09/2025  22:53    <DIR>          .
+27/09/2025  22:53    <DIR>          ..
+27/09/2025  22:52               516 0b217a8e6d2b092ee043bfdbb42ddf18c7fc58
+27/09/2025  22:53                60 b40694d6b05f46137fc0d40ae929ee5c1f36fa
+               2 archivos            576 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\f6
+
+27/09/2025  22:52    <DIR>          .
+27/09/2025  22:52    <DIR>          ..
+27/09/2025  22:52             7.634 4c96d1985ec1ed4c9db3b7c80cf94c928bed16
+               1 archivos          7.634 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\f7
+
+15/10/2025  19:36    <DIR>          .
+15/10/2025  19:36    <DIR>          ..
+27/09/2025  23:03               658 014f44cef6d9ab67d0316810d8a92bb4ac41b8
+15/10/2025  19:36               166 84cbaf9fc7d2814e6444b13e013f805b3ead1a
+               2 archivos            824 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\f8
+
+27/09/2025  21:59    <DIR>          .
+27/09/2025  21:59    <DIR>          ..
+27/09/2025  21:59               184 051a6f973e69a86e6f07f1a1c87f17a31c7235
+               1 archivos            184 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\fa
+
+26/09/2025  19:25    <DIR>          .
+26/09/2025  19:25    <DIR>          ..
+26/09/2025  19:25                46 d279c7fa36ccdbf10c0b13151e9dbeda935705
+               1 archivos             46 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\fc
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24               259 9c0aed70e3f54389c1e7d601bf630a23425c03
+               1 archivos            259 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\fe
+
+27/09/2025  22:53    <DIR>          .
+27/09/2025  22:53    <DIR>          ..
+27/09/2025  22:53                53 9d030a3bcf0b6e875787609f9a9e1b4177bb7a
+               1 archivos             53 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\info
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\objects\pack
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\refs
+
+26/09/2025  19:34    <DIR>          .
+26/09/2025  19:34    <DIR>          ..
+15/10/2025  19:36    <DIR>          heads
+26/09/2025  19:34    <DIR>          remotes
+26/09/2025  19:24    <DIR>          tags
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\refs\heads
+
+15/10/2025  19:36    <DIR>          .
+15/10/2025  19:36    <DIR>          ..
+15/10/2025  19:36                41 des
+26/09/2025  19:27                41 main
+26/09/2025  19:28                41 pre
+26/09/2025  19:28                41 pro
+               4 archivos            164 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\refs\remotes
+
+26/09/2025  19:34    <DIR>          .
+26/09/2025  19:34    <DIR>          ..
+15/10/2025  19:37    <DIR>          origin
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\refs\remotes\origin
+
+15/10/2025  19:37    <DIR>          .
+15/10/2025  19:37    <DIR>          ..
+15/10/2025  19:37                41 des
+26/09/2025  19:35                30 HEAD
+26/09/2025  19:34                41 main
+26/09/2025  19:37                41 pre
+26/09/2025  19:37                41 pro
+               5 archivos            194 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.git\refs\tags
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.gradle
+
+17/10/2025  11:26    <DIR>          .
+17/10/2025  11:26    <DIR>          ..
+26/09/2025  21:03    <DIR>          8.13
+26/09/2025  21:12    <DIR>          buildOutputCleanup
+26/09/2025  19:24                92 config.properties
+17/10/2025  11:25                 8 file-system.probe
+27/09/2025  22:35    <DIR>          kotlin
+26/09/2025  19:24    <DIR>          vcs-1
+               2 archivos            100 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.gradle\8.13
+
+26/09/2025  21:03    <DIR>          .
+26/09/2025  21:03    <DIR>          ..
+26/09/2025  21:02    <DIR>          checksums
+26/09/2025  21:12    <DIR>          executionHistory
+26/09/2025  19:24    <DIR>          expanded
+26/09/2025  19:24    <DIR>          fileChanges
+26/09/2025  21:05    <DIR>          fileHashes
+17/10/2025  11:21                 0 gc.properties
+26/09/2025  19:24    <DIR>          vcsMetadata
+               1 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.gradle\8.13\checksums
+
+26/09/2025  21:02    <DIR>          .
+26/09/2025  21:02    <DIR>          ..
+17/10/2025  11:26                17 checksums.lock
+15/10/2025  19:06            38.197 md5-checksums.bin
+15/10/2025  19:06           125.999 sha1-checksums.bin
+               3 archivos        164.213 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.gradle\8.13\executionHistory
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+17/10/2025  11:26         4.481.423 executionHistory.bin
+17/10/2025  11:26                17 executionHistory.lock
+               2 archivos      4.481.440 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.gradle\8.13\expanded
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.gradle\8.13\fileChanges
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+17/10/2025  11:26                 1 last-build.bin
+               1 archivos              1 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.gradle\8.13\fileHashes
+
+26/09/2025  21:05    <DIR>          .
+26/09/2025  21:05    <DIR>          ..
+17/10/2025  11:26            78.115 fileHashes.bin
+17/10/2025  11:26                17 fileHashes.lock
+17/10/2025  11:26            20.401 resourceHashesCache.bin
+               3 archivos         98.533 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.gradle\8.13\vcsMetadata
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.gradle\buildOutputCleanup
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+17/10/2025  11:26                17 buildOutputCleanup.lock
+26/09/2025  19:24                53 cache.properties
+17/10/2025  11:26            21.845 outputFiles.bin
+               3 archivos         21.915 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.gradle\kotlin
+
+27/09/2025  22:35    <DIR>          .
+27/09/2025  22:35    <DIR>          ..
+27/09/2025  22:35    <DIR>          errors
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.gradle\kotlin\errors
+
+27/09/2025  22:35    <DIR>          .
+27/09/2025  22:35    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.gradle\vcs-1
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+17/10/2025  11:21                 0 gc.properties
+               1 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.idea
+
+17/10/2025  11:25    <DIR>          .
+17/10/2025  11:25    <DIR>          ..
+26/09/2025  19:24                50 .gitignore
+26/09/2025  20:08               217 AndroidProjectSystem.xml
+27/09/2025  23:28             1.231 assetWizardSettings.xml
+14/10/2025  15:16    <DIR>          caches
+26/09/2025  21:08    <DIR>          codeStyles
+26/09/2025  21:08               174 compiler.xml
+29/09/2025  19:16               658 deploymentTargetSelector.xml
+28/09/2025  20:08               363 deviceManager.xml
+26/09/2025  21:06               708 gradle.xml
+26/09/2025  20:08               263 migrations.xml
+17/10/2025  11:12               409 misc.xml
+26/09/2025  20:08               980 runConfigurations.xml
+26/09/2025  20:08               185 vcs.xml
+17/10/2025  11:25            10.525 workspace.xml
+              12 archivos         15.763 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.idea\caches
+
+14/10/2025  15:16    <DIR>          .
+14/10/2025  15:16    <DIR>          ..
+14/10/2025  15:16            45.287 deviceStreaming.xml
+               1 archivos         45.287 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.idea\codeStyles
+
+26/09/2025  21:08    <DIR>          .
+26/09/2025  21:08    <DIR>          ..
+26/09/2025  21:08               146 codeStyleConfig.xml
+26/09/2025  21:08             3.744 Project.xml
+               2 archivos          3.890 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.kotlin
+
+27/09/2025  22:35    <DIR>          .
+27/09/2025  22:35    <DIR>          ..
+27/09/2025  22:35    <DIR>          errors
+17/10/2025  11:26    <DIR>          sessions
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.kotlin\errors
+
+27/09/2025  22:35    <DIR>          .
+27/09/2025  22:35    <DIR>          ..
+27/09/2025  22:35               186 errors-1759005310358.log
+               1 archivos            186 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\.kotlin\sessions
+
+17/10/2025  11:26    <DIR>          .
+17/10/2025  11:26    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app
+
+15/10/2025  19:01    <DIR>          .
+15/10/2025  19:01    <DIR>          ..
+26/09/2025  19:24                 6 .gitignore
+26/09/2025  21:12    <DIR>          build
+15/10/2025  19:01             1.345 build.gradle.kts
+26/09/2025  19:24               750 proguard-rules.pro
+26/09/2025  19:24    <DIR>          src
+               3 archivos          2.101 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          generated
+26/09/2025  21:13    <DIR>          intermediates
+26/09/2025  21:12    <DIR>          kotlin
+26/09/2025  21:12    <DIR>          outputs
+26/09/2025  21:12    <DIR>          tmp
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\generated
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          res
+26/09/2025  21:12    <DIR>          updated_navigation_xml
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\generated\res
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          pngs
+26/09/2025  21:12    <DIR>          resValues
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\generated\res\pngs
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\generated\res\pngs\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\generated\res\resValues
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\generated\res\resValues\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\generated\updated_navigation_xml
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\generated\updated_navigation_xml\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:12    <DIR>          aar_metadata_check
+26/09/2025  21:12    <DIR>          annotation_processor_list
+26/09/2025  21:13    <DIR>          apk
+26/09/2025  21:13    <DIR>          apk_ide_redirect_file
+26/09/2025  21:12    <DIR>          app_metadata
+26/09/2025  21:12    <DIR>          assets
+26/09/2025  21:12    <DIR>          compatible_screen_manifest
+26/09/2025  21:12    <DIR>          compiled_navigation_res
+26/09/2025  21:12    <DIR>          compile_and_runtime_not_namespaced_r_class_jar
+26/09/2025  21:12    <DIR>          compressed_assets
+26/09/2025  21:12    <DIR>          data_binding_layout_info_type_merge
+26/09/2025  21:12    <DIR>          data_binding_layout_info_type_package
+26/09/2025  21:13    <DIR>          desugar_graph
+26/09/2025  21:12    <DIR>          dex
+26/09/2025  21:13    <DIR>          dex_archive_input_jar_hashes
+26/09/2025  21:13    <DIR>          dex_number_of_buckets_file
+26/09/2025  21:12    <DIR>          duplicate_classes_check
+26/09/2025  21:12    <DIR>          external_file_lib_dex_archives
+26/09/2025  21:13    <DIR>          external_libs_dex_archive
+26/09/2025  21:13    <DIR>          external_libs_dex_archive_with_artifact_transforms
+26/09/2025  21:13    <DIR>          incremental
+26/09/2025  21:13    <DIR>          java_res
+26/09/2025  21:12    <DIR>          linked_resources_binary_format
+26/09/2025  21:12    <DIR>          local_only_symbol_list
+26/09/2025  21:12    <DIR>          manifest_merge_blame_file
+26/09/2025  21:13    <DIR>          merged_java_res
+26/09/2025  21:12    <DIR>          merged_jni_libs
+26/09/2025  21:12    <DIR>          merged_manifest
+26/09/2025  21:12    <DIR>          merged_manifests
+26/09/2025  21:12    <DIR>          merged_res
+26/09/2025  21:12    <DIR>          merged_res_blame_folder
+26/09/2025  21:12    <DIR>          merged_shaders
+26/09/2025  21:13    <DIR>          mixed_scope_dex_archive
+26/09/2025  21:12    <DIR>          navigation_json
+26/09/2025  21:12    <DIR>          nested_resources_validation_report
+26/09/2025  21:12    <DIR>          packaged_manifests
+26/09/2025  21:12    <DIR>          packaged_res
+26/09/2025  21:13    <DIR>          project_dex_archive
+26/09/2025  21:12    <DIR>          runtime_symbol_list
+26/09/2025  21:12    <DIR>          signing_config_versions
+26/09/2025  21:12    <DIR>          source_set_path_map
+26/09/2025  21:12    <DIR>          stable_resource_ids_file
+26/09/2025  21:13    <DIR>          sub_project_dex_archive
+26/09/2025  21:12    <DIR>          symbol_list_with_package_name
+26/09/2025  21:12    <DIR>          validate_signing_config
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\aar_metadata_check
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\aar_metadata_check\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          checkDebugAarMetadata
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\aar_metadata_check\debug\checkDebugAarMetadata
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\annotation_processor_list
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\annotation_processor_list\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          javaPreCompileDebug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\annotation_processor_list\debug\javaPreCompileDebug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12                 2 annotationProcessors.json
+               1 archivos              2 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\apk
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:16    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\apk\debug
+
+26/09/2025  21:16    <DIR>          .
+26/09/2025  21:16    <DIR>          ..
+17/10/2025  11:26        14.760.536 app-debug.apk
+17/10/2025  11:26               406 output-metadata.json
+               2 archivos     14.760.942 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\apk_ide_redirect_file
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\apk_ide_redirect_file\debug
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          createDebugApkListingFileRedirect
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\apk_ide_redirect_file\debug\createDebugApkListingFileRedirect
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13                72 redirect.txt
+               1 archivos             72 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\app_metadata
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\app_metadata\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          writeDebugAppMetadata
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\app_metadata\debug\writeDebugAppMetadata
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12                57 app-metadata.properties
+               1 archivos             57 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\assets
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\assets\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          mergeDebugAssets
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\assets\debug\mergeDebugAssets
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\compatible_screen_manifest
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\compatible_screen_manifest\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          createDebugCompatibleScreenManifests
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\compatible_screen_manifest\debug\createDebugCompatibleScreenManifests
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12               200 output-metadata.json
+               1 archivos            200 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\compiled_navigation_res
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\compiled_navigation_res\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          compileDebugNavigationResources
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\compiled_navigation_res\debug\compileDebugNavigationResources
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\compile_and_runtime_not_namespaced_r_class_jar
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\compile_and_runtime_not_namespaced_r_class_jar\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+15/10/2025  19:28    <DIR>          processDebugResources
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\compile_and_runtime_not_namespaced_r_class_jar\debug\processDebugResources
+
+15/10/2025  19:28    <DIR>          .
+15/10/2025  19:28    <DIR>          ..
+15/10/2025  19:28           622.313 R.jar
+               1 archivos        622.313 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\compressed_assets
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\compressed_assets\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          compressDebugAssets
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\compressed_assets\debug\compressDebugAssets
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          out
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\compressed_assets\debug\compressDebugAssets\out
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\data_binding_layout_info_type_merge
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\data_binding_layout_info_type_merge\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          mergeDebugResources
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\data_binding_layout_info_type_merge\debug\mergeDebugResources
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          out
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\data_binding_layout_info_type_merge\debug\mergeDebugResources\out
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\data_binding_layout_info_type_package
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\data_binding_layout_info_type_package\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          packageDebugResources
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\data_binding_layout_info_type_package\debug\packageDebugResources
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          out
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\data_binding_layout_info_type_package\debug\packageDebugResources\out
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\desugar_graph
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\desugar_graph\debug
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          dexBuilderDebug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\desugar_graph\debug\dexBuilderDebug
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          out
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          currentProject
+26/09/2025  21:13    <DIR>          externalLibs
+26/09/2025  21:13    <DIR>          mixedScopes
+26/09/2025  21:13    <DIR>          otherProjects
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          dirs_bucket_0
+26/09/2025  21:13    <DIR>          dirs_bucket_1
+26/09/2025  21:13    <DIR>          jar_ad9eb336ccf795a3643b8783186cadf18f2b4f52a4178fc93bc162e1fc60dc63_bucket_0
+26/09/2025  21:13    <DIR>          jar_ad9eb336ccf795a3643b8783186cadf18f2b4f52a4178fc93bc162e1fc60dc63_bucket_1
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\dirs_bucket_0
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+17/10/2025  11:26               235 graph.bin
+               1 archivos            235 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\dirs_bucket_1
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+17/10/2025  11:26               235 graph.bin
+               1 archivos            235 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\jar_ad9eb336ccf795a3643b8783186cadf18f2b4f52a4178fc93bc162e1fc60dc63_bucket_0
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+17/10/2025  11:26               235 graph.bin
+               1 archivos            235 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\currentProject\jar_ad9eb336ccf795a3643b8783186cadf18f2b4f52a4178fc93bc162e1fc60dc63_bucket_1
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+17/10/2025  11:26               235 graph.bin
+               1 archivos            235 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\externalLibs
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\mixedScopes
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\desugar_graph\debug\dexBuilderDebug\out\otherProjects
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:13    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+15/10/2025  19:07    <DIR>          mergeExtDexDebug
+26/09/2025  21:12    <DIR>          mergeLibDexDebug
+26/09/2025  21:13    <DIR>          mergeProjectDexDebug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeExtDexDebug
+
+15/10/2025  19:07    <DIR>          .
+15/10/2025  19:07    <DIR>          ..
+15/10/2025  19:07        10.964.880 classes.dex
+15/10/2025  19:07           766.332 classes2.dex
+               2 archivos     11.731.212 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeLibDexDebug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          0
+26/09/2025  21:12    <DIR>          1
+26/09/2025  21:12    <DIR>          10
+26/09/2025  21:12    <DIR>          11
+26/09/2025  21:12    <DIR>          12
+26/09/2025  21:12    <DIR>          13
+26/09/2025  21:12    <DIR>          14
+26/09/2025  21:12    <DIR>          15
+26/09/2025  21:12    <DIR>          2
+26/09/2025  21:12    <DIR>          3
+26/09/2025  21:12    <DIR>          4
+26/09/2025  21:12    <DIR>          5
+26/09/2025  21:12    <DIR>          6
+26/09/2025  21:12    <DIR>          7
+26/09/2025  21:12    <DIR>          8
+26/09/2025  21:12    <DIR>          9
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeLibDexDebug\0
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeLibDexDebug\1
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeLibDexDebug\10
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeLibDexDebug\11
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeLibDexDebug\12
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeLibDexDebug\13
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeLibDexDebug\14
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeLibDexDebug\15
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeLibDexDebug\2
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeLibDexDebug\3
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeLibDexDebug\4
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeLibDexDebug\5
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeLibDexDebug\6
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeLibDexDebug\7
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeLibDexDebug\8
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeLibDexDebug\9
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeProjectDexDebug
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+15/10/2025  19:07    <DIR>          0
+26/09/2025  21:13    <DIR>          1
+26/09/2025  21:13    <DIR>          10
+26/09/2025  21:13    <DIR>          11
+26/09/2025  21:13    <DIR>          12
+26/09/2025  21:13    <DIR>          13
+26/09/2025  21:13    <DIR>          14
+26/09/2025  21:13    <DIR>          15
+17/10/2025  11:26    <DIR>          2
+26/09/2025  21:13    <DIR>          3
+26/09/2025  21:13    <DIR>          4
+26/09/2025  21:13    <DIR>          5
+26/09/2025  21:13    <DIR>          6
+26/09/2025  21:13    <DIR>          7
+26/09/2025  21:13    <DIR>          8
+26/09/2025  21:13    <DIR>          9
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeProjectDexDebug\0
+
+15/10/2025  19:07    <DIR>          .
+15/10/2025  19:07    <DIR>          ..
+15/10/2025  19:07           478.164 classes.dex
+               1 archivos        478.164 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeProjectDexDebug\1
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeProjectDexDebug\10
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeProjectDexDebug\11
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeProjectDexDebug\12
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeProjectDexDebug\13
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeProjectDexDebug\14
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeProjectDexDebug\15
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeProjectDexDebug\2
+
+17/10/2025  11:26    <DIR>          .
+17/10/2025  11:26    <DIR>          ..
+17/10/2025  11:26            13.724 classes.dex
+               1 archivos         13.724 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeProjectDexDebug\3
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeProjectDexDebug\4
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeProjectDexDebug\5
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeProjectDexDebug\6
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeProjectDexDebug\7
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeProjectDexDebug\8
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex\debug\mergeProjectDexDebug\9
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex_archive_input_jar_hashes
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex_archive_input_jar_hashes\debug
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+17/10/2025  11:26    <DIR>          dexBuilderDebug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex_archive_input_jar_hashes\debug\dexBuilderDebug
+
+17/10/2025  11:26    <DIR>          .
+17/10/2025  11:26    <DIR>          ..
+17/10/2025  11:26               421 out
+               1 archivos            421 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex_number_of_buckets_file
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex_number_of_buckets_file\debug
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          dexBuilderDebug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\dex_number_of_buckets_file\debug\dexBuilderDebug
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13                 1 out
+               1 archivos              1 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\duplicate_classes_check
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\duplicate_classes_check\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          checkDebugDuplicateClasses
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\duplicate_classes_check\debug\checkDebugDuplicateClasses
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\external_file_lib_dex_archives
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\external_file_lib_dex_archives\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          desugarDebugFileDependencies
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\external_file_lib_dex_archives\debug\desugarDebugFileDependencies
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\external_libs_dex_archive
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\external_libs_dex_archive\debug
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          dexBuilderDebug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\external_libs_dex_archive\debug\dexBuilderDebug
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          out
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\external_libs_dex_archive\debug\dexBuilderDebug\out
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\external_libs_dex_archive_with_artifact_transforms
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\external_libs_dex_archive_with_artifact_transforms\debug
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          dexBuilderDebug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\external_libs_dex_archive_with_artifact_transforms\debug\dexBuilderDebug
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          out
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\external_libs_dex_archive_with_artifact_transforms\debug\dexBuilderDebug\out
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\incremental
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+26/09/2025  21:13    <DIR>          debug-mergeJavaRes
+26/09/2025  21:12    <DIR>          mergeDebugAssets
+26/09/2025  21:12    <DIR>          mergeDebugJniLibFolders
+26/09/2025  21:12    <DIR>          mergeDebugShaders
+26/09/2025  21:13    <DIR>          packageDebug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\incremental\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          mergeDebugResources
+26/09/2025  21:12    <DIR>          packageDebugResources
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\incremental\debug\mergeDebugResources
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+15/10/2025  19:28            15.624 compile-file-map.properties
+15/10/2025  19:28    <DIR>          merged.dir
+15/10/2025  19:28         2.142.323 merger.xml
+26/09/2025  21:12    <DIR>          stripped.dir
+               2 archivos      2.157.947 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+
+15/10/2025  19:28    <DIR>          .
+15/10/2025  19:28    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\incremental\debug\packageDebugResources
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+15/10/2025  19:28             6.428 compile-file-map.properties
+15/10/2025  17:36    <DIR>          merged.dir
+15/10/2025  19:28            11.078 merger.xml
+26/09/2025  21:12    <DIR>          stripped.dir
+               2 archivos         17.506 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+
+15/10/2025  17:36    <DIR>          .
+15/10/2025  17:36    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\incremental\debug-mergeJavaRes
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+15/10/2025  19:07            11.949 merge-state
+15/10/2025  19:07    <DIR>          zip-cache
+               1 archivos         11.949 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\incremental\debug-mergeJavaRes\zip-cache
+
+15/10/2025  19:07    <DIR>          .
+15/10/2025  19:07    <DIR>          ..
+26/09/2025  21:13           138.928 +O08ZJVqCnbPvy9g9Rz7RQ==
+26/09/2025  21:13             1.704 1ENs5sQYmyOkcFJ2jdbWXQ==
+15/10/2025  19:07               402 1K34MAn+2kU0uLHW_vqegg==
+26/09/2025  21:13               586 21xPXW8ZHAXNfR6nZ5kBPw==
+26/09/2025  21:13            23.923 3zmoE7UA+gAAtPJ6FYDPhQ==
+26/09/2025  21:13             1.182 5RtvxuDevHcLmxykgNa2BQ==
+26/09/2025  21:13             6.623 66xDKigZoB6Odci5JKXs0Q==
+26/09/2025  21:13             3.651 7TRoU8c_sz7EjIGL6kIYTQ==
+26/09/2025  21:13            42.936 AC81bUV5RbOd9fAw3ZyiGA==
+26/09/2025  21:13             6.820 B6R4Z6fLCgT9SOstjbp5mA==
+26/09/2025  21:13             7.776 bb34mu_5euhxk+CprF+RNg==
+26/09/2025  21:13            19.223 bNyHHE58miikgZQjy6uyEQ==
+26/09/2025  21:13             2.451 cEKK8npVye489t0cRhS4vg==
+26/09/2025  21:13           147.877 CJzaY6cVVku+64kYF5JUDA==
+26/09/2025  21:13             3.872 cz8OUVgMwep2pG5R3D5f0A==
+26/09/2025  21:13             8.904 dcxPwz4h5JF4qJXJKqrO4w==
+26/09/2025  21:13             2.883 ddyYIdz_ytHUmkRLsTIOwQ==
+26/09/2025  21:13             2.330 DmPDzGNs+sminTopr+lJnQ==
+26/09/2025  21:13             2.203 DsvWWvXQWZoM_ktmawYeLg==
+26/09/2025  21:13             2.800 E0tZSDopa+ZM2TjWcCyb7Q==
+26/09/2025  21:13            10.922 g9IKrYECH+qGzpOkzHfCOA==
+26/09/2025  21:13               394 gBF01UscYHS6q4iAYzgIPg==
+26/09/2025  21:13             4.621 gue8wro72VCyh6LIC+xYTw==
+26/09/2025  21:13             2.599 h7kSmPoVfOAEJzPQMTvupQ==
+26/09/2025  21:13             6.067 i6Kr_H5MfUwzaB4nmDv8yA==
+26/09/2025  21:13             9.735 IZWt867MiD7lO0ZyXdZrMQ==
+26/09/2025  21:13             4.411 kF84ld14oMb+doh9+jHKYg==
+26/09/2025  21:13            28.800 kt6NWxSVDk0x+EsjUnZ51g==
+26/09/2025  21:13            34.619 KtY0qWW7+cveMLaOQwk2SA==
+26/09/2025  21:13            19.479 LhD+9Ecn1ObI63QVxYxJtA==
+26/09/2025  21:13             1.270 LU_DtI9x335_u62UumtGEg==
+26/09/2025  21:13             3.288 m0mfcMXtK+gZGt6qOdF8bw==
+27/09/2025  22:35             3.262 O+9HUPoZ8tSeVgDmwN52Xw==
+15/10/2025  19:07               592 OG7Dy6Zf_7sKF_YdvkEvgQ==
+15/10/2025  19:07               142 oX5Caxr_24LZOs811+lgag==
+26/09/2025  21:13             7.880 P3FltOqroyHJUE_H7lYP+w==
+26/09/2025  21:13            20.526 Pa4Hf6UxvYLM6njFAxxC8g==
+26/09/2025  21:13               777 PbE3CCmC6B6YPwQ06NeeeA==
+26/09/2025  21:13             5.594 QATutGDfCPFfvneTuKn81Q==
+26/09/2025  21:13            66.705 RZFrc0HxVS7LLgd26+JnhA==
+26/09/2025  21:13               930 sp987QJt_QRAFTCl6atNjA==
+26/09/2025  21:13           152.206 T3NX2azoo98OdvOTzMhbJg==
+26/09/2025  21:13             1.972 T8+YWcwFlByHrCw5egr5qQ==
+26/09/2025  21:13             2.266 TUKjcvhxQyVWprmKJdjhZw==
+15/10/2025  19:07             3.477 u5bOCUwsuL2W1+AMPFqpVA==
+26/09/2025  21:13               608 uaql3FIZuKnO72wTLmUgXA==
+26/09/2025  21:13               896 uDWkLOM6EqHB_JYb45xEQg==
+26/09/2025  21:13               483 uEMOawli5lL1r23IvS9hew==
+26/09/2025  21:13             1.913 uO9a9yfyG0z3PJUvftYWAw==
+26/09/2025  21:13             2.535 UVRjfiaA1VL3y8+yyDlt1Q==
+26/09/2025  21:13             2.625 v1cyjIPrDumtbQc+Ln5XjQ==
+26/09/2025  21:13            23.725 VKC32IpCb51R+ft79hKPqw==
+26/09/2025  21:13           203.480 VkGia1gUnjqLmJhfUTKZPg==
+26/09/2025  21:13             2.915 VMYOUw3h3fHii5rAP3X7Rw==
+26/09/2025  21:13               862 waiSCpqjQFqsTvPsbkUV2g==
+26/09/2025  21:13             3.737 XsiOtmLc+TzmFEcew7osPA==
+26/09/2025  21:13             5.442 YcvJ6JFSV5hU5Z4Ubieu2w==
+26/09/2025  21:13             1.590 zbxEWduIEAsk8qYmPK0WgQ==
+26/09/2025  21:13             3.555 _D++k87Zh0I5oeVPu+EIeA==
+              59 archivos      1.073.974 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\incremental\mergeDebugAssets
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12               759 merger.xml
+               1 archivos            759 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\incremental\mergeDebugJniLibFolders
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12               496 merger.xml
+               1 archivos            496 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\incremental\mergeDebugShaders
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12               496 merger.xml
+               1 archivos            496 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\incremental\packageDebug
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:16    <DIR>          tmp
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\incremental\packageDebug\tmp
+
+26/09/2025  21:16    <DIR>          .
+26/09/2025  21:16    <DIR>          ..
+26/09/2025  21:16    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\incremental\packageDebug\tmp\debug
+
+26/09/2025  21:16    <DIR>          .
+26/09/2025  21:16    <DIR>          ..
+17/10/2025  11:26               759 dex-renamer-state.txt
+26/09/2025  21:16    <DIR>          zip-cache
+               1 archivos            759 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\incremental\packageDebug\tmp\debug\zip-cache
+
+26/09/2025  21:16    <DIR>          .
+26/09/2025  21:16    <DIR>          ..
+15/10/2025  19:28           124.539 androidResources
+15/10/2025  19:07             8.347 javaResources0
+               2 archivos        132.886 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\java_res
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\java_res\debug
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          processDebugJavaRes
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\java_res\debug\processDebugJavaRes
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          out
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\java_res\debug\processDebugJavaRes\out
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          com
+26/09/2025  21:13    <DIR>          META-INF
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\java_res\debug\processDebugJavaRes\out\com
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          example
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\java_res\debug\processDebugJavaRes\out\com\example
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          splashscreen
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\java_res\debug\processDebugJavaRes\out\com\example\splashscreen
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\java_res\debug\processDebugJavaRes\out\META-INF
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13                24 app_debug.kotlin_module
+               1 archivos             24 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\linked_resources_binary_format
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\linked_resources_binary_format\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+15/10/2025  19:28    <DIR>          processDebugResources
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\linked_resources_binary_format\debug\processDebugResources
+
+15/10/2025  19:28    <DIR>          .
+15/10/2025  19:28    <DIR>          ..
+15/10/2025  19:28         1.609.085 linked-resources-binary-format-debug.ap_
+15/10/2025  19:28               428 output-metadata.json
+               2 archivos      1.609.513 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\local_only_symbol_list
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\local_only_symbol_list\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          parseDebugLocalResources
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\local_only_symbol_list\debug\parseDebugLocalResources
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+15/10/2025  19:28               853 R-def.txt
+               1 archivos            853 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\manifest_merge_blame_file
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\manifest_merge_blame_file\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+15/10/2025  19:07    <DIR>          processDebugMainManifest
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\manifest_merge_blame_file\debug\processDebugMainManifest
+
+15/10/2025  19:07    <DIR>          .
+15/10/2025  19:07    <DIR>          ..
+15/10/2025  19:07            13.239 manifest-merger-blame-debug-report.txt
+               1 archivos         13.239 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_java_res
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_java_res\debug
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          mergeDebugJavaResource
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_java_res\debug\mergeDebugJavaResource
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+15/10/2025  19:07            25.701 base.jar
+               1 archivos         25.701 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_jni_libs
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_jni_libs\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          mergeDebugJniLibFolders
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_jni_libs\debug\mergeDebugJniLibFolders
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          out
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_jni_libs\debug\mergeDebugJniLibFolders\out
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_manifest
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_manifest\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+15/10/2025  19:07    <DIR>          processDebugMainManifest
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_manifest\debug\processDebugMainManifest
+
+15/10/2025  19:07    <DIR>          .
+15/10/2025  19:07    <DIR>          ..
+15/10/2025  19:07             3.581 AndroidManifest.xml
+               1 archivos          3.581 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_manifests
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_manifests\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+15/10/2025  18:44    <DIR>          processDebugManifest
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_manifests\debug\processDebugManifest
+
+15/10/2025  18:44    <DIR>          .
+15/10/2025  18:44    <DIR>          ..
+15/10/2025  18:44             3.581 AndroidManifest.xml
+15/10/2025  18:44               393 output-metadata.json
+               2 archivos          3.974 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_res
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_res\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+15/10/2025  19:07    <DIR>          mergeDebugResources
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_res\debug\mergeDebugResources
+
+15/10/2025  19:07    <DIR>          .
+15/10/2025  19:07    <DIR>          ..
+15/10/2025  19:07            10.768 drawable_ic_launcher_background.xml.flat
+15/10/2025  19:07             2.712 drawable_ic_launcher_foreground.xml.flat
+15/10/2025  19:07             9.616 drawable_splashscreen_logo.png.flat
+15/10/2025  19:07               200 drawable_tarjeta.xml.flat
+15/10/2025  19:07               600 font_lato_bold.xml.flat
+15/10/2025  19:07               596 font_lato_regular.xml.flat
+15/10/2025  19:28             4.676 layout_activity_login.xml.flat
+15/10/2025  19:07             1.276 layout_activity_main.xml.flat
+15/10/2025  19:28             5.292 layout_activity_registrate.xml.flat
+15/10/2025  19:07               580 mipmap-anydpi_ic_launcher.xml.flat
+15/10/2025  19:07               592 mipmap-anydpi_ic_launcher_round.xml.flat
+15/10/2025  19:07             1.540 mipmap-hdpi_ic_launcher.webp.flat
+15/10/2025  19:07             3.048 mipmap-hdpi_ic_launcher_round.webp.flat
+15/10/2025  19:07             1.120 mipmap-mdpi_ic_launcher.webp.flat
+15/10/2025  19:07             1.920 mipmap-mdpi_ic_launcher_round.webp.flat
+15/10/2025  19:07             2.036 mipmap-xhdpi_ic_launcher.webp.flat
+15/10/2025  19:07             4.068 mipmap-xhdpi_ic_launcher_round.webp.flat
+15/10/2025  19:07             3.020 mipmap-xxhdpi_ic_launcher.webp.flat
+15/10/2025  19:07             6.064 mipmap-xxhdpi_ic_launcher_round.webp.flat
+15/10/2025  19:07             3.980 mipmap-xxxhdpi_ic_launcher.webp.flat
+15/10/2025  19:07             7.928 mipmap-xxxhdpi_ic_launcher_round.webp.flat
+15/10/2025  19:07             8.788 values-af_values-af.arsc.flat
+15/10/2025  19:07             9.972 values-am_values-am.arsc.flat
+15/10/2025  19:07            10.376 values-ar_values-ar.arsc.flat
+15/10/2025  19:07             9.764 values-as_values-as.arsc.flat
+15/10/2025  19:07             9.116 values-az_values-az.arsc.flat
+15/10/2025  19:07             7.044 values-b+es+419_values-b+es+419.arsc.flat
+15/10/2025  19:07             9.692 values-b+sr+Latn_values-b+sr+Latn.arsc.flat
+15/10/2025  19:07            10.796 values-be_values-be.arsc.flat
+15/10/2025  19:07            10.692 values-bg_values-bg.arsc.flat
+15/10/2025  19:07            11.676 values-bn_values-bn.arsc.flat
+15/10/2025  19:07             9.140 values-bs_values-bs.arsc.flat
+15/10/2025  19:07             9.260 values-ca_values-ca.arsc.flat
+15/10/2025  19:07             9.164 values-cs_values-cs.arsc.flat
+15/10/2025  19:07             8.832 values-da_values-da.arsc.flat
+15/10/2025  19:07             9.120 values-de_values-de.arsc.flat
+15/10/2025  19:07            10.904 values-el_values-el.arsc.flat
+15/10/2025  19:07             2.700 values-en-rAU_values-en-rAU.arsc.flat
+15/10/2025  19:07             2.696 values-en-rCA_values-en-rCA.arsc.flat
+15/10/2025  19:07             9.080 values-en-rGB_values-en-rGB.arsc.flat
+15/10/2025  19:07             2.700 values-en-rIN_values-en-rIN.arsc.flat
+15/10/2025  19:07            13.956 values-en-rXC_values-en-rXC.arsc.flat
+15/10/2025  19:07             9.528 values-es-rUS_values-es-rUS.arsc.flat
+15/10/2025  19:07             9.220 values-es_values-es.arsc.flat
+15/10/2025  19:07             9.004 values-et_values-et.arsc.flat
+15/10/2025  19:07             9.088 values-eu_values-eu.arsc.flat
+15/10/2025  19:07             9.960 values-fa_values-fa.arsc.flat
+15/10/2025  19:07             8.940 values-fi_values-fi.arsc.flat
+15/10/2025  19:07             9.636 values-fr-rCA_values-fr-rCA.arsc.flat
+15/10/2025  19:07             9.196 values-fr_values-fr.arsc.flat
+15/10/2025  19:07             9.268 values-gl_values-gl.arsc.flat
+15/10/2025  19:07            11.380 values-gu_values-gu.arsc.flat
+15/10/2025  19:07               296 values-h320dp-port-v13_values-h320dp-port-v13.arsc.flat
+15/10/2025  19:07               804 values-h360dp-land-v13_values-h360dp-land-v13.arsc.flat
+15/10/2025  19:07               804 values-h480dp-land-v13_values-h480dp-land-v13.arsc.flat
+15/10/2025  19:07               504 values-h480dp-v13_values-h480dp-v13.arsc.flat
+15/10/2025  19:07               296 values-h550dp-port-v13_values-h550dp-port-v13.arsc.flat
+15/10/2025  19:07               284 values-h720dp-v13_values-h720dp-v13.arsc.flat
+15/10/2025  19:07               488 values-hdpi-v4_values-hdpi-v4.arsc.flat
+15/10/2025  19:07            11.640 values-hi_values-hi.arsc.flat
+15/10/2025  19:07             9.124 values-hr_values-hr.arsc.flat
+15/10/2025  19:07             9.232 values-hu_values-hu.arsc.flat
+15/10/2025  19:07            10.424 values-hy_values-hy.arsc.flat
+15/10/2025  19:07             8.888 values-in_values-in.arsc.flat
+15/10/2025  19:07             8.892 values-is_values-is.arsc.flat
+15/10/2025  19:07             9.152 values-it_values-it.arsc.flat
+15/10/2025  19:07             9.628 values-iw_values-iw.arsc.flat
+15/10/2025  19:07             9.172 values-ja_values-ja.arsc.flat
+15/10/2025  19:07            11.904 values-ka_values-ka.arsc.flat
+15/10/2025  19:07            10.228 values-kk_values-kk.arsc.flat
+15/10/2025  19:07            11.948 values-km_values-km.arsc.flat
+15/10/2025  19:07            12.224 values-kn_values-kn.arsc.flat
+15/10/2025  19:07             9.004 values-ko_values-ko.arsc.flat
+15/10/2025  19:07            10.496 values-ky_values-ky.arsc.flat
+15/10/2025  19:07             2.864 values-land_values-land.arsc.flat
+15/10/2025  19:07             1.424 values-large-v4_values-large-v4.arsc.flat
+15/10/2025  19:07               344 values-ldltr-v21_values-ldltr-v21.arsc.flat
+15/10/2025  19:07               484 values-ldrtl-v17_values-ldrtl-v17.arsc.flat
+15/10/2025  19:07            11.416 values-lo_values-lo.arsc.flat
+15/10/2025  19:07             9.396 values-lt_values-lt.arsc.flat
+15/10/2025  19:07             9.464 values-lv_values-lv.arsc.flat
+15/10/2025  19:07            10.536 values-mk_values-mk.arsc.flat
+15/10/2025  19:07            12.716 values-ml_values-ml.arsc.flat
+15/10/2025  19:07            10.380 values-mn_values-mn.arsc.flat
+15/10/2025  19:07            11.440 values-mr_values-mr.arsc.flat
+15/10/2025  19:07             8.932 values-ms_values-ms.arsc.flat
+15/10/2025  19:07            12.428 values-my_values-my.arsc.flat
+15/10/2025  19:07             8.700 values-nb_values-nb.arsc.flat
+15/10/2025  19:07            11.976 values-ne_values-ne.arsc.flat
+15/10/2025  19:07             5.588 values-night-v8_values-night-v8.arsc.flat
+15/10/2025  19:07             9.012 values-nl_values-nl.arsc.flat
+15/10/2025  19:07             9.820 values-or_values-or.arsc.flat
+15/10/2025  19:07            11.092 values-pa_values-pa.arsc.flat
+15/10/2025  19:07             9.172 values-pl_values-pl.arsc.flat
+15/10/2025  19:07               252 values-port_values-port.arsc.flat
+15/10/2025  19:07             9.520 values-pt-rBR_values-pt-rBR.arsc.flat
+15/10/2025  19:07             9.520 values-pt-rPT_values-pt-rPT.arsc.flat
+15/10/2025  19:07             2.696 values-pt_values-pt.arsc.flat
+15/10/2025  19:07             9.228 values-ro_values-ro.arsc.flat
+15/10/2025  19:07            10.636 values-ru_values-ru.arsc.flat
+15/10/2025  19:07            11.384 values-si_values-si.arsc.flat
+15/10/2025  19:07             9.188 values-sk_values-sk.arsc.flat
+15/10/2025  19:07             9.120 values-sl_values-sl.arsc.flat
+15/10/2025  19:07             9.100 values-sq_values-sq.arsc.flat
+15/10/2025  19:07            10.380 values-sr_values-sr.arsc.flat
+15/10/2025  19:07             8.872 values-sv_values-sv.arsc.flat
+15/10/2025  19:07             1.716 values-sw600dp-v13_values-sw600dp-v13.arsc.flat
+15/10/2025  19:07             9.068 values-sw_values-sw.arsc.flat
+15/10/2025  19:07            12.804 values-ta_values-ta.arsc.flat
+15/10/2025  19:07            12.324 values-te_values-te.arsc.flat
+15/10/2025  19:07            11.288 values-th_values-th.arsc.flat
+15/10/2025  19:07             9.208 values-tl_values-tl.arsc.flat
+15/10/2025  19:07             8.968 values-tr_values-tr.arsc.flat
+15/10/2025  19:07            10.556 values-uk_values-uk.arsc.flat
+15/10/2025  19:07            10.180 values-ur_values-ur.arsc.flat
+15/10/2025  19:07             9.004 values-uz_values-uz.arsc.flat
+15/10/2025  19:07               412 values-v16_values-v16.arsc.flat
+15/10/2025  19:07             3.696 values-v17_values-v17.arsc.flat
+15/10/2025  19:07               248 values-v18_values-v18.arsc.flat
+15/10/2025  19:07            20.908 values-v21_values-v21.arsc.flat
+15/10/2025  19:07               936 values-v22_values-v22.arsc.flat
+15/10/2025  19:07             5.740 values-v23_values-v23.arsc.flat
+15/10/2025  19:07             1.796 values-v24_values-v24.arsc.flat
+15/10/2025  19:07               584 values-v25_values-v25.arsc.flat
+15/10/2025  19:07             1.056 values-v26_values-v26.arsc.flat
+15/10/2025  19:07               764 values-v27_values-v27.arsc.flat
+15/10/2025  19:07             1.812 values-v28_values-v28.arsc.flat
+15/10/2025  19:07               616 values-v29_values-v29.arsc.flat
+15/10/2025  19:07            46.648 values-v31_values-v31.arsc.flat
+15/10/2025  19:07            10.100 values-v34_values-v34.arsc.flat
+15/10/2025  19:07               608 values-v35_values-v35.arsc.flat
+15/10/2025  19:07             9.416 values-vi_values-vi.arsc.flat
+15/10/2025  19:07               348 values-w320dp-land-v13_values-w320dp-land-v13.arsc.flat
+15/10/2025  19:07               736 values-w360dp-port-v13_values-w360dp-port-v13.arsc.flat
+15/10/2025  19:07               732 values-w400dp-port-v13_values-w400dp-port-v13.arsc.flat
+15/10/2025  19:07               288 values-w600dp-land-v13_values-w600dp-land-v13.arsc.flat
+15/10/2025  19:07             1.332 values-watch-v20_values-watch-v20.arsc.flat
+15/10/2025  19:07               904 values-watch-v21_values-watch-v21.arsc.flat
+15/10/2025  19:07               584 values-xlarge-v4_values-xlarge-v4.arsc.flat
+15/10/2025  19:07             9.176 values-zh-rCN_values-zh-rCN.arsc.flat
+15/10/2025  19:07             9.180 values-zh-rHK_values-zh-rHK.arsc.flat
+15/10/2025  19:07             9.196 values-zh-rTW_values-zh-rTW.arsc.flat
+15/10/2025  19:07             9.100 values-zu_values-zu.arsc.flat
+15/10/2025  19:07         1.044.044 values_values.arsc.flat
+15/10/2025  19:07               152 xml_backup_rules.xml.flat
+15/10/2025  19:07               192 xml_data_extraction_rules.xml.flat
+             146 archivos      2.061.252 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_res_blame_folder
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_res_blame_folder\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          mergeDebugResources
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_res_blame_folder\debug\mergeDebugResources
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+15/10/2025  19:07    <DIR>          out
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_res_blame_folder\debug\mergeDebugResources\out
+
+15/10/2025  19:07    <DIR>          .
+15/10/2025  19:07    <DIR>          ..
+15/10/2025  19:07    <DIR>          multi-v2
+15/10/2025  19:07    <DIR>          single
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_res_blame_folder\debug\mergeDebugResources\out\multi-v2
+
+15/10/2025  19:07    <DIR>          .
+15/10/2025  19:07    <DIR>          ..
+15/10/2025  19:07           902.761 mergeDebugResources.json
+15/10/2025  19:07             7.150 values-af.json
+15/10/2025  19:07             7.121 values-am.json
+15/10/2025  19:07             7.238 values-ar.json
+15/10/2025  19:07             7.160 values-as.json
+15/10/2025  19:07             7.160 values-az.json
+15/10/2025  19:07             2.406 values-b+es+419.json
+15/10/2025  19:07             7.230 values-b+sr+Latn.json
+15/10/2025  19:07             7.193 values-be.json
+15/10/2025  19:07             7.173 values-bg.json
+15/10/2025  19:07             7.170 values-bn.json
+15/10/2025  19:07             7.176 values-bs.json
+15/10/2025  19:07             7.180 values-ca.json
+15/10/2025  19:07             7.174 values-cs.json
+15/10/2025  19:07             7.148 values-da.json
+15/10/2025  19:07             7.169 values-de.json
+15/10/2025  19:07             7.178 values-el.json
+15/10/2025  19:07             2.920 values-en-rAU.json
+15/10/2025  19:07             2.920 values-en-rCA.json
+15/10/2025  19:07             7.176 values-en-rGB.json
+15/10/2025  19:07             2.920 values-en-rIN.json
+15/10/2025  19:07             2.991 values-en-rXC.json
+15/10/2025  19:07             7.199 values-es-rUS.json
+15/10/2025  19:07             7.169 values-es.json
+15/10/2025  19:07             7.162 values-et.json
+15/10/2025  19:07             7.168 values-eu.json
+15/10/2025  19:07             7.154 values-fa.json
+15/10/2025  19:07             7.148 values-fi.json
+15/10/2025  19:07             7.206 values-fr-rCA.json
+15/10/2025  19:07             7.168 values-fr.json
+15/10/2025  19:07             7.174 values-gl.json
+15/10/2025  19:07             7.152 values-gu.json
+15/10/2025  19:07               726 values-h320dp-port-v13.json
+15/10/2025  19:07               847 values-h360dp-land-v13.json
+15/10/2025  19:07               847 values-h480dp-land-v13.json
+15/10/2025  19:07               751 values-h480dp-v13.json
+15/10/2025  19:07               726 values-h550dp-port-v13.json
+15/10/2025  19:07               706 values-h720dp-v13.json
+15/10/2025  19:07               735 values-hdpi-v4.json
+15/10/2025  19:07             7.168 values-hi.json
+15/10/2025  19:07             7.169 values-hr.json
+15/10/2025  19:07             7.162 values-hu.json
+15/10/2025  19:07             7.158 values-hy.json
+15/10/2025  19:07             7.156 values-in.json
+15/10/2025  19:07             7.148 values-is.json
+15/10/2025  19:07             7.173 values-it.json
+15/10/2025  19:07             7.148 values-iw.json
+15/10/2025  19:07             7.118 values-ja.json
+15/10/2025  19:07             7.158 values-ka.json
+15/10/2025  19:07             7.157 values-kk.json
+15/10/2025  19:07             7.154 values-km.json
+15/10/2025  19:07             7.170 values-kn.json
+15/10/2025  19:07             7.111 values-ko.json
+15/10/2025  19:07             7.170 values-ky.json
+15/10/2025  19:07             2.295 values-land.json
+15/10/2025  19:07             1.703 values-large-v4.json
+15/10/2025  19:07               703 values-ldltr-v21.json
+15/10/2025  19:07               719 values-ldrtl-v17.json
+15/10/2025  19:07             7.148 values-lo.json
+15/10/2025  19:07             7.191 values-lt.json
+15/10/2025  19:07             7.203 values-lv.json
+15/10/2025  19:07             7.166 values-mk.json
+15/10/2025  19:07             7.184 values-ml.json
+15/10/2025  19:07             7.162 values-mn.json
+15/10/2025  19:07             7.160 values-mr.json
+15/10/2025  19:07             7.162 values-ms.json
+15/10/2025  19:07             7.182 values-my.json
+15/10/2025  19:07             7.135 values-nb.json
+15/10/2025  19:07             7.170 values-ne.json
+15/10/2025  19:07             4.780 values-night-v8.json
+15/10/2025  19:07             7.166 values-nl.json
+15/10/2025  19:07             7.162 values-or.json
+15/10/2025  19:07             7.146 values-pa.json
+15/10/2025  19:07             7.176 values-pl.json
+15/10/2025  19:07               682 values-port.json
+15/10/2025  19:07             7.201 values-pt-rBR.json
+15/10/2025  19:07             7.198 values-pt-rPT.json
+15/10/2025  19:07             2.904 values-pt.json
+15/10/2025  19:07             7.179 values-ro.json
+15/10/2025  19:07             7.182 values-ru.json
+15/10/2025  19:07             7.160 values-si.json
+15/10/2025  19:07             7.174 values-sk.json
+15/10/2025  19:07             7.182 values-sl.json
+15/10/2025  19:07             7.164 values-sq.json
+15/10/2025  19:07             7.173 values-sr.json
+15/10/2025  19:07             7.152 values-sv.json
+15/10/2025  19:07             7.170 values-sw.json
+15/10/2025  19:07             2.100 values-sw600dp-v13.json
+15/10/2025  19:07             7.182 values-ta.json
+15/10/2025  19:07             7.175 values-te.json
+15/10/2025  19:07             7.144 values-th.json
+15/10/2025  19:07             7.178 values-tl.json
+15/10/2025  19:07             7.148 values-tr.json
+15/10/2025  19:07             7.185 values-uk.json
+15/10/2025  19:07             7.164 values-ur.json
+15/10/2025  19:07             7.158 values-uz.json
+15/10/2025  19:07               719 values-v16.json
+15/10/2025  19:07             1.043 values-v17.json
+15/10/2025  19:07               677 values-v18.json
+15/10/2025  19:07             7.239 values-v21.json
+15/10/2025  19:07               771 values-v22.json
+15/10/2025  19:07             3.056 values-v23.json
+15/10/2025  19:07             1.804 values-v24.json
+15/10/2025  19:07               770 values-v25.json
+15/10/2025  19:07               809 values-v26.json
+15/10/2025  19:07               778 values-v27.json
+15/10/2025  19:07             2.439 values-v28.json
+15/10/2025  19:07               744 values-v29.json
+15/10/2025  19:07            11.949 values-v31.json
+15/10/2025  19:07             2.292 values-v34.json
+15/10/2025  19:07               724 values-v35.json
+15/10/2025  19:07             7.152 values-vi.json
+15/10/2025  19:07               741 values-w320dp-land-v13.json
+15/10/2025  19:07               831 values-w360dp-port-v13.json
+15/10/2025  19:07               831 values-w400dp-port-v13.json
+15/10/2025  19:07               726 values-w600dp-land-v13.json
+15/10/2025  19:07             1.752 values-watch-v20.json
+15/10/2025  19:07               779 values-watch-v21.json
+15/10/2025  19:07               777 values-xlarge-v4.json
+15/10/2025  19:07             7.141 values-zh-rCN.json
+15/10/2025  19:07             7.139 values-zh-rHK.json
+15/10/2025  19:07             7.139 values-zh-rTW.json
+15/10/2025  19:07             7.168 values-zu.json
+15/10/2025  19:07           255.460 values.json
+             124 archivos      1.809.190 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_res_blame_folder\debug\mergeDebugResources\out\single
+
+15/10/2025  19:07    <DIR>          .
+15/10/2025  19:07    <DIR>          ..
+15/10/2025  19:28             6.863 mergeDebugResources.json
+               1 archivos          6.863 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_shaders
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_shaders\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          mergeDebugShaders
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_shaders\debug\mergeDebugShaders
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          out
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\merged_shaders\debug\mergeDebugShaders\out
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\mixed_scope_dex_archive
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\mixed_scope_dex_archive\debug
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          dexBuilderDebug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\mixed_scope_dex_archive\debug\dexBuilderDebug
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          out
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\mixed_scope_dex_archive\debug\dexBuilderDebug\out
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\navigation_json
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\navigation_json\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          extractDeepLinksDebug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\navigation_json\debug\extractDeepLinksDebug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12                 2 navigation.json
+               1 archivos              2 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\nested_resources_validation_report
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\nested_resources_validation_report\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+15/10/2025  19:28    <DIR>          generateDebugResources
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\nested_resources_validation_report\debug\generateDebugResources
+
+15/10/2025  19:28    <DIR>          .
+15/10/2025  19:28    <DIR>          ..
+15/10/2025  19:28                15 nestedResourcesValidationReport.txt
+               1 archivos             15 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\packaged_manifests
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\packaged_manifests\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+15/10/2025  18:44    <DIR>          processDebugManifestForPackage
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\packaged_manifests\debug\processDebugManifestForPackage
+
+15/10/2025  18:44    <DIR>          .
+15/10/2025  18:44    <DIR>          ..
+15/10/2025  18:44             3.581 AndroidManifest.xml
+15/10/2025  18:44               395 output-metadata.json
+               2 archivos          3.976 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\packaged_res
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\packaged_res\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+15/10/2025  17:25    <DIR>          packageDebugResources
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\packaged_res\debug\packageDebugResources
+
+15/10/2025  17:25    <DIR>          .
+15/10/2025  17:25    <DIR>          ..
+15/10/2025  17:25    <DIR>          drawable
+15/10/2025  17:25    <DIR>          font
+15/10/2025  19:28    <DIR>          layout
+26/09/2025  21:12    <DIR>          mipmap-anydpi-v4
+26/09/2025  21:12    <DIR>          mipmap-hdpi-v4
+26/09/2025  21:12    <DIR>          mipmap-mdpi-v4
+26/09/2025  21:12    <DIR>          mipmap-xhdpi-v4
+26/09/2025  21:12    <DIR>          mipmap-xxhdpi-v4
+26/09/2025  21:12    <DIR>          mipmap-xxxhdpi-v4
+15/10/2025  17:25    <DIR>          values
+26/09/2025  21:12    <DIR>          values-night-v8
+26/09/2025  21:12    <DIR>          xml
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\packaged_res\debug\packageDebugResources\drawable
+
+15/10/2025  17:25    <DIR>          .
+15/10/2025  17:25    <DIR>          ..
+26/09/2025  19:24             5.606 ic_launcher_background.xml
+26/09/2025  19:24             1.702 ic_launcher_foreground.xml
+27/09/2025  23:31             9.478 splashscreen_logo.png
+10/10/2025  22:00               124 tarjeta.xml
+               4 archivos         16.910 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\packaged_res\debug\packageDebugResources\font
+
+15/10/2025  17:25    <DIR>          .
+15/10/2025  17:25    <DIR>          ..
+14/10/2025  15:20               391 lato_bold.xml
+14/10/2025  15:16               383 lato_regular.xml
+               2 archivos            774 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\packaged_res\debug\packageDebugResources\layout
+
+15/10/2025  19:28    <DIR>          .
+15/10/2025  19:28    <DIR>          ..
+15/10/2025  19:28             2.790 activity_login.xml
+27/09/2025  23:12               823 activity_main.xml
+15/10/2025  19:27             3.139 activity_registrate.xml
+               3 archivos          6.752 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\packaged_res\debug\packageDebugResources\mipmap-anydpi-v4
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  19:24               343 ic_launcher.xml
+26/09/2025  19:24               343 ic_launcher_round.xml
+               2 archivos            686 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\packaged_res\debug\packageDebugResources\mipmap-hdpi-v4
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  19:24             1.404 ic_launcher.webp
+26/09/2025  19:24             2.898 ic_launcher_round.webp
+               2 archivos          4.302 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\packaged_res\debug\packageDebugResources\mipmap-mdpi-v4
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  19:24               982 ic_launcher.webp
+26/09/2025  19:24             1.772 ic_launcher_round.webp
+               2 archivos          2.754 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\packaged_res\debug\packageDebugResources\mipmap-xhdpi-v4
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  19:24             1.900 ic_launcher.webp
+26/09/2025  19:24             3.918 ic_launcher_round.webp
+               2 archivos          5.818 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\packaged_res\debug\packageDebugResources\mipmap-xxhdpi-v4
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  19:24             2.884 ic_launcher.webp
+26/09/2025  19:24             5.914 ic_launcher_round.webp
+               2 archivos          8.798 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\packaged_res\debug\packageDebugResources\mipmap-xxxhdpi-v4
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  19:24             3.844 ic_launcher.webp
+26/09/2025  19:24             7.778 ic_launcher_round.webp
+               2 archivos         11.622 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\packaged_res\debug\packageDebugResources\values
+
+15/10/2025  17:25    <DIR>          .
+15/10/2025  17:25    <DIR>          ..
+15/10/2025  17:25             4.532 values.xml
+               1 archivos          4.532 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\packaged_res\debug\packageDebugResources\values-night-v8
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12               183 values-night-v8.xml
+               1 archivos            183 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\packaged_res\debug\packageDebugResources\xml
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  19:24               478 backup_rules.xml
+26/09/2025  19:24               551 data_extraction_rules.xml
+               2 archivos          1.029 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\project_dex_archive
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\project_dex_archive\debug
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          dexBuilderDebug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\project_dex_archive\debug\dexBuilderDebug
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+15/10/2025  19:07    <DIR>          out
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\project_dex_archive\debug\dexBuilderDebug\out
+
+15/10/2025  19:07    <DIR>          .
+15/10/2025  19:07    <DIR>          ..
+15/10/2025  19:07            26.905 b7339e64c829f530e000de744e35ea3b6c38c02ba321ec7c52d7505301d23ffc_0.jar
+15/10/2025  19:07            91.444 b7339e64c829f530e000de744e35ea3b6c38c02ba321ec7c52d7505301d23ffc_1.jar
+26/09/2025  21:13    <DIR>          com
+               2 archivos        118.349 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\project_dex_archive\debug\dexBuilderDebug\out\com
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          example
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\project_dex_archive\debug\dexBuilderDebug\out\com\example
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+17/10/2025  11:26    <DIR>          splashscreen
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\project_dex_archive\debug\dexBuilderDebug\out\com\example\splashscreen
+
+17/10/2025  11:26    <DIR>          .
+17/10/2025  11:26    <DIR>          ..
+15/10/2025  19:23             4.952 LoginActivity.dex
+03/10/2025  16:46             2.972 MainActivity$onCreate$3.dex
+03/10/2025  16:46             4.696 MainActivity.dex
+17/10/2025  11:26             5.716 RegistrateActivity.dex
+15/10/2025  19:23             2.456 RepositorioUsuarios.dex
+               5 archivos         20.792 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\runtime_symbol_list
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\runtime_symbol_list\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+27/09/2025  22:35    <DIR>          processDebugResources
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\runtime_symbol_list\debug\processDebugResources
+
+27/09/2025  22:35    <DIR>          .
+27/09/2025  22:35    <DIR>          ..
+15/10/2025  19:28           438.771 R.txt
+               1 archivos        438.771 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\signing_config_versions
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\signing_config_versions\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          writeDebugSigningConfigVersions
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\signing_config_versions\debug\writeDebugSigningConfigVersions
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12                96 signing-config-versions.json
+               1 archivos             96 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\source_set_path_map
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\source_set_path_map\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+15/10/2025  19:28    <DIR>          mapDebugSourceSetPaths
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\source_set_path_map\debug\mapDebugSourceSetPaths
+
+15/10/2025  19:28    <DIR>          .
+15/10/2025  19:28    <DIR>          ..
+15/10/2025  19:28             7.231 file-map.txt
+               1 archivos          7.231 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\stable_resource_ids_file
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\stable_resource_ids_file\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+27/09/2025  22:35    <DIR>          processDebugResources
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\stable_resource_ids_file\debug\processDebugResources
+
+27/09/2025  22:35    <DIR>          .
+27/09/2025  22:35    <DIR>          ..
+15/10/2025  19:28           500.318 stableIds.txt
+               1 archivos        500.318 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\sub_project_dex_archive
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\sub_project_dex_archive\debug
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          dexBuilderDebug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\sub_project_dex_archive\debug\dexBuilderDebug
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+26/09/2025  21:13    <DIR>          out
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\sub_project_dex_archive\debug\dexBuilderDebug\out
+
+26/09/2025  21:13    <DIR>          .
+26/09/2025  21:13    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\symbol_list_with_package_name
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\symbol_list_with_package_name\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+27/09/2025  22:35    <DIR>          processDebugResources
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\symbol_list_with_package_name\debug\processDebugResources
+
+27/09/2025  22:35    <DIR>          .
+27/09/2025  22:35    <DIR>          ..
+15/10/2025  19:28           261.054 package-aware-r.txt
+               1 archivos        261.054 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\validate_signing_config
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\validate_signing_config\debug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          validateSigningDebug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\intermediates\validate_signing_config\debug\validateSigningDebug
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\kotlin
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          compileDebugKotlin
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\kotlin\compileDebugKotlin
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+17/10/2025  11:26    <DIR>          cacheable
+15/10/2025  18:44    <DIR>          classpath-snapshot
+17/10/2025  11:26    <DIR>          local-state
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\kotlin\compileDebugKotlin\cacheable
+
+17/10/2025  11:26    <DIR>          .
+17/10/2025  11:26    <DIR>          ..
+15/10/2025  18:44    <DIR>          caches-jvm
+17/10/2025  11:26                18 last-build.bin
+               1 archivos             18 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\kotlin\compileDebugKotlin\cacheable\caches-jvm
+
+15/10/2025  18:44    <DIR>          .
+15/10/2025  18:44    <DIR>          ..
+15/10/2025  18:44    <DIR>          inputs
+15/10/2025  18:44    <DIR>          jvm
+17/10/2025  11:26    <DIR>          lookups
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\kotlin\compileDebugKotlin\cacheable\caches-jvm\inputs
+
+15/10/2025  18:44    <DIR>          .
+15/10/2025  18:44    <DIR>          ..
+17/10/2025  11:26             4.096 source-to-output.tab
+15/10/2025  18:44             4.096 source-to-output.tab.keystream
+15/10/2025  18:44                 8 source-to-output.tab.keystream.len
+15/10/2025  18:44                 8 source-to-output.tab.len
+17/10/2025  11:26             4.268 source-to-output.tab.values.at
+15/10/2025  18:44            32.768 source-to-output.tab_i
+15/10/2025  18:44                 8 source-to-output.tab_i.len
+               7 archivos         45.252 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\kotlin\compileDebugKotlin\cacheable\caches-jvm\jvm
+
+15/10/2025  18:44    <DIR>          .
+15/10/2025  18:44    <DIR>          ..
+15/10/2025  18:44    <DIR>          kotlin
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\kotlin\compileDebugKotlin\cacheable\caches-jvm\jvm\kotlin
+
+15/10/2025  18:44    <DIR>          .
+15/10/2025  18:44    <DIR>          ..
+17/10/2025  11:26             4.096 class-attributes.tab
+15/10/2025  18:44             4.096 class-attributes.tab.keystream
+15/10/2025  18:44                 8 class-attributes.tab.keystream.len
+15/10/2025  18:44                 8 class-attributes.tab.len
+17/10/2025  11:26                94 class-attributes.tab.values.at
+15/10/2025  18:44            32.768 class-attributes.tab_i
+15/10/2025  18:44                 8 class-attributes.tab_i.len
+17/10/2025  11:26             4.096 class-fq-name-to-source.tab
+15/10/2025  18:44             4.096 class-fq-name-to-source.tab.keystream
+15/10/2025  18:44                 8 class-fq-name-to-source.tab.keystream.len
+15/10/2025  18:44                 8 class-fq-name-to-source.tab.len
+17/10/2025  11:26             2.021 class-fq-name-to-source.tab.values.at
+15/10/2025  18:44            32.768 class-fq-name-to-source.tab_i
+15/10/2025  18:44                 8 class-fq-name-to-source.tab_i.len
+17/10/2025  11:26             4.096 internal-name-to-source.tab
+15/10/2025  18:44             4.096 internal-name-to-source.tab.keystream
+15/10/2025  18:44                 8 internal-name-to-source.tab.keystream.len
+15/10/2025  18:44                 8 internal-name-to-source.tab.len
+17/10/2025  11:26             2.143 internal-name-to-source.tab.values.at
+15/10/2025  18:44            32.768 internal-name-to-source.tab_i
+15/10/2025  18:44                 8 internal-name-to-source.tab_i.len
+17/10/2025  11:26             4.096 proto.tab
+15/10/2025  18:44             4.096 proto.tab.keystream
+15/10/2025  18:44                 8 proto.tab.keystream.len
+15/10/2025  18:44                 8 proto.tab.len
+17/10/2025  11:26             4.153 proto.tab.values.at
+15/10/2025  18:44            32.768 proto.tab_i
+15/10/2025  18:44                 8 proto.tab_i.len
+17/10/2025  11:26             4.096 source-to-classes.tab
+15/10/2025  18:44             4.096 source-to-classes.tab.keystream
+15/10/2025  18:44                 8 source-to-classes.tab.keystream.len
+15/10/2025  18:44                 8 source-to-classes.tab.len
+17/10/2025  11:26             1.972 source-to-classes.tab.values.at
+15/10/2025  18:44            32.768 source-to-classes.tab_i
+15/10/2025  18:44                 8 source-to-classes.tab_i.len
+17/10/2025  11:26             4.096 subtypes.tab
+15/10/2025  18:44             4.096 subtypes.tab.keystream
+15/10/2025  18:44                 8 subtypes.tab.keystream.len
+15/10/2025  18:44                 8 subtypes.tab.len
+17/10/2025  11:26               618 subtypes.tab.values.at
+15/10/2025  18:44            32.768 subtypes.tab_i
+15/10/2025  18:44                 8 subtypes.tab_i.len
+17/10/2025  11:26             4.096 supertypes.tab
+15/10/2025  18:44             4.096 supertypes.tab.keystream
+15/10/2025  18:44                 8 supertypes.tab.keystream.len
+15/10/2025  18:44                 8 supertypes.tab.len
+17/10/2025  11:26               608 supertypes.tab.values.at
+15/10/2025  18:44            32.768 supertypes.tab_i
+15/10/2025  18:44                 8 supertypes.tab_i.len
+              49 archivos        298.497 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\kotlin\compileDebugKotlin\cacheable\caches-jvm\lookups
+
+17/10/2025  11:26    <DIR>          .
+17/10/2025  11:26    <DIR>          ..
+17/10/2025  11:26                 4 counters.tab
+17/10/2025  11:26             4.096 file-to-id.tab
+15/10/2025  18:44             4.096 file-to-id.tab.keystream
+15/10/2025  18:44                 8 file-to-id.tab.keystream.len
+15/10/2025  18:44                 8 file-to-id.tab.len
+17/10/2025  11:26               139 file-to-id.tab.values.at
+15/10/2025  18:44            32.768 file-to-id.tab_i
+15/10/2025  18:44                 8 file-to-id.tab_i.len
+17/10/2025  11:26             4.096 id-to-file.tab
+17/10/2025  11:26             4.096 id-to-file.tab.keystream
+17/10/2025  11:26                 8 id-to-file.tab.keystream.len
+17/10/2025  11:26                 8 id-to-file.tab.len
+17/10/2025  11:26             1.035 id-to-file.tab.values.at
+17/10/2025  11:26            32.768 id-to-file.tab_i
+15/10/2025  18:44                 8 id-to-file.tab_i.len
+17/10/2025  11:26             4.096 lookups.tab
+17/10/2025  11:26            20.480 lookups.tab.keystream
+17/10/2025  11:26                 8 lookups.tab.keystream.len
+17/10/2025  11:26                 8 lookups.tab.len
+17/10/2025  11:26            13.530 lookups.tab.values.at
+17/10/2025  11:26            32.768 lookups.tab_i
+15/10/2025  18:44                 8 lookups.tab_i.len
+              22 archivos        154.044 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\kotlin\compileDebugKotlin\classpath-snapshot
+
+15/10/2025  18:44    <DIR>          .
+15/10/2025  18:44    <DIR>          ..
+17/10/2025  11:26            25.104 shrunk-classpath-snapshot.bin
+               1 archivos         25.104 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\kotlin\compileDebugKotlin\local-state
+
+17/10/2025  11:26    <DIR>          .
+17/10/2025  11:26    <DIR>          ..
+17/10/2025  11:26               347 build-history.bin
+               1 archivos            347 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\outputs
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+15/10/2025  19:07    <DIR>          logs
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\outputs\logs
+
+15/10/2025  19:07    <DIR>          .
+15/10/2025  19:07    <DIR>          ..
+15/10/2025  19:07            45.480 manifest-merger-debug-report.txt
+               1 archivos         45.480 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\tmp
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+26/09/2025  21:12    <DIR>          kotlin-classes
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\tmp\kotlin-classes
+
+26/09/2025  21:12    <DIR>          .
+26/09/2025  21:12    <DIR>          ..
+15/10/2025  18:44    <DIR>          debug
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\tmp\kotlin-classes\debug
+
+15/10/2025  18:44    <DIR>          .
+15/10/2025  18:44    <DIR>          ..
+15/10/2025  18:44    <DIR>          com
+17/10/2025  11:26    <DIR>          META-INF
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\tmp\kotlin-classes\debug\com
+
+15/10/2025  18:44    <DIR>          .
+15/10/2025  18:44    <DIR>          ..
+15/10/2025  18:44    <DIR>          example
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\tmp\kotlin-classes\debug\com\example
+
+15/10/2025  18:44    <DIR>          .
+15/10/2025  18:44    <DIR>          ..
+17/10/2025  11:26    <DIR>          splashscreen
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\tmp\kotlin-classes\debug\com\example\splashscreen
+
+17/10/2025  11:26    <DIR>          .
+17/10/2025  11:26    <DIR>          ..
+15/10/2025  19:23             4.733 LoginActivity.class
+15/10/2025  18:44             3.308 MainActivity$onCreate$3.class
+15/10/2025  18:44             4.419 MainActivity.class
+17/10/2025  11:26             5.475 RegistrateActivity.class
+15/10/2025  19:23             2.310 RepositorioUsuarios.class
+               5 archivos         20.245 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\build\tmp\kotlin-classes\debug\META-INF
+
+17/10/2025  11:26    <DIR>          .
+17/10/2025  11:26    <DIR>          ..
+17/10/2025  11:26                24 app_debug.kotlin_module
+               1 archivos             24 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24    <DIR>          androidTest
+15/10/2025  18:04    <DIR>          main
+26/09/2025  19:24    <DIR>          test
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\androidTest
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24    <DIR>          java
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\androidTest\java
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24    <DIR>          com
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\androidTest\java\com
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24    <DIR>          example
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\androidTest\java\com\example
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24    <DIR>          splashscreen
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\androidTest\java\com\example\splashscreen
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24               675 ExampleInstrumentedTest.kt
+               1 archivos            675 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\main
+
+15/10/2025  18:04    <DIR>          .
+15/10/2025  18:04    <DIR>          ..
+15/10/2025  18:04             1.319 AndroidManifest.xml
+26/09/2025  19:24    <DIR>          java
+10/10/2025  21:55    <DIR>          res
+               1 archivos          1.319 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\main\java
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24    <DIR>          com
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\main\java\com
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24    <DIR>          example
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\main\java\com\example
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+17/10/2025  11:26    <DIR>          splashscreen
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\main\java\com\example\splashscreen
+
+17/10/2025  11:26    <DIR>          .
+17/10/2025  11:26    <DIR>          ..
+15/10/2025  19:09             2.300 LoginActivity.kt
+02/10/2025  16:30             1.250 MainActivity.kt
+17/10/2025  11:26             2.820 RegistrateActivity.kt
+15/10/2025  19:22             1.060 RepositorioUsuarios.kt
+               4 archivos          7.430 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\main\res
+
+10/10/2025  21:55    <DIR>          .
+10/10/2025  21:55    <DIR>          ..
+10/10/2025  22:00    <DIR>          drawable
+14/10/2025  15:20    <DIR>          font
+15/10/2025  19:28    <DIR>          layout
+26/09/2025  19:24    <DIR>          mipmap-anydpi
+26/09/2025  19:24    <DIR>          mipmap-hdpi
+26/09/2025  19:24    <DIR>          mipmap-mdpi
+26/09/2025  19:24    <DIR>          mipmap-xhdpi
+26/09/2025  19:24    <DIR>          mipmap-xxhdpi
+26/09/2025  19:24    <DIR>          mipmap-xxxhdpi
+14/10/2025  15:20    <DIR>          values
+26/09/2025  19:24    <DIR>          values-night
+26/09/2025  19:24    <DIR>          xml
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\main\res\drawable
+
+10/10/2025  22:00    <DIR>          .
+10/10/2025  22:00    <DIR>          ..
+26/09/2025  19:24             5.606 ic_launcher_background.xml
+26/09/2025  19:24             1.702 ic_launcher_foreground.xml
+27/09/2025  23:31             9.478 splashscreen_logo.png
+10/10/2025  22:00               124 tarjeta.xml
+               4 archivos         16.910 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\main\res\font
+
+14/10/2025  15:20    <DIR>          .
+14/10/2025  15:20    <DIR>          ..
+14/10/2025  15:20               391 lato_bold.xml
+14/10/2025  15:16               383 lato_regular.xml
+               2 archivos            774 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\main\res\layout
+
+15/10/2025  19:28    <DIR>          .
+15/10/2025  19:28    <DIR>          ..
+15/10/2025  19:28             2.790 activity_login.xml
+27/09/2025  23:12               823 activity_main.xml
+15/10/2025  19:27             3.139 activity_registrate.xml
+               3 archivos          6.752 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\main\res\mipmap-anydpi
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24               343 ic_launcher.xml
+26/09/2025  19:24               343 ic_launcher_round.xml
+               2 archivos            686 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\main\res\mipmap-hdpi
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24             1.404 ic_launcher.webp
+26/09/2025  19:24             2.898 ic_launcher_round.webp
+               2 archivos          4.302 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\main\res\mipmap-mdpi
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24               982 ic_launcher.webp
+26/09/2025  19:24             1.772 ic_launcher_round.webp
+               2 archivos          2.754 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\main\res\mipmap-xhdpi
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24             1.900 ic_launcher.webp
+26/09/2025  19:24             3.918 ic_launcher_round.webp
+               2 archivos          5.818 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\main\res\mipmap-xxhdpi
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24             2.884 ic_launcher.webp
+26/09/2025  19:24             5.914 ic_launcher_round.webp
+               2 archivos          8.798 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\main\res\mipmap-xxxhdpi
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24             3.844 ic_launcher.webp
+26/09/2025  19:24             7.778 ic_launcher_round.webp
+               2 archivos         11.622 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\main\res\values
+
+14/10/2025  15:20    <DIR>          .
+14/10/2025  15:20    <DIR>          ..
+27/09/2025  22:52               199 colors.xml
+14/10/2025  15:16             3.598 font_certs.xml
+14/10/2025  15:20               217 preloaded_fonts.xml
+26/09/2025  19:24                74 strings.xml
+27/09/2025  23:33               927 themes.xml
+               5 archivos          5.015 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\main\res\values-night
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24               332 themes.xml
+               1 archivos            332 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\main\res\xml
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24               478 backup_rules.xml
+26/09/2025  19:24               551 data_extraction_rules.xml
+               2 archivos          1.029 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\test
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24    <DIR>          java
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\test\java
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24    <DIR>          com
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\test\java\com
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24    <DIR>          example
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\test\java\com\example
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24    <DIR>          splashscreen
+               0 archivos              0 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\app\src\test\java\com\example\splashscreen
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24               348 ExampleUnitTest.kt
+               1 archivos            348 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\gradle
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24             1.192 libs.versions.toml
+26/09/2025  19:24    <DIR>          wrapper
+               1 archivos          1.192 bytes
+
+ Directorio de C:\Users\Lugra\AndroidStudioProjects\SplashScreen\gradle\wrapper
+
+26/09/2025  19:24    <DIR>          .
+26/09/2025  19:24    <DIR>          ..
+26/09/2025  19:24            59.203 gradle-wrapper.jar
+26/09/2025  19:24               238 gradle-wrapper.properties
+               2 archivos         59.441 bytes
+
+     Total de archivos en la lista:
+             808 archivos     43.737.119 bytes
+            1337 dirs  77.599.522.816 bytes libres

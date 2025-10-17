@@ -21,7 +21,7 @@ class RegistrateActivity : AppCompatActivity() {
         val etContrasenhaOtraVez = findViewById<EditText>(R.id.etInsertarContrasenhaOtraVez)
         val btnRegistrarse = findViewById<Button>(R.id.btnRegistrarse)
 
-        //Pulsar el botón de Login
+        // Pulsar el botón de Login
         btnRegistrarse.setOnClickListener {
             val usuario = etUsuario.text.trim().toString()
             val contrasenha = etContrasenha.text.trim().toString()
@@ -58,9 +58,12 @@ class RegistrateActivity : AppCompatActivity() {
             }
 
         }
+
+        // Regresar ala pantalla activity_login al pulsar los controles de Android
+        onBackPressedDispatcher.addCallback(this) {
+            val intent = Intent(this@RegistrateActivity, LoginActivity::class.java)
+            startActivity(intent)
+            finish()
+        }
     }
-
-
-    // PENDIENTE
-    // Regresar ala pantalla activity_login al pulsar los controles de Android
 }

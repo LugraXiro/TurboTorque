@@ -4,77 +4,91 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="@color/fondoPrincipal"
+    tools:context=".MainActivity">
 
+    <!-- Parte superior: logo -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="1"
-        android:gravity="center"
-        android:background="#E48585">
+        android:layout_weight="4"
+        android:gravity="center">
 
         <ImageView
             android:id="@+id/imageView"
-            android:layout_width="300dp"
-            android:layout_height="300dp"
-            app:srcCompat="@drawable/splashscreen_logo"
-            tools:layout_editor_absoluteX="40dp"
-            tools:layout_editor_absoluteY="-38dp" />
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            app:srcCompat="@drawable/splashscreen_logo" />
     </LinearLayout>
 
+    <!-- Parte inferior: formulario -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_weight="1"
-        android:background="#85E4C6"
+        android:layout_weight="6"
         android:orientation="vertical"
-        android:gravity="center">
-
+        android:gravity="center"
+        android:padding="24dp">
 
         <TextView
             android:id="@+id/textView1"
-            android:layout_width="267dp"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Inserte usuario y contraseña:"/>
+            android:text="Inserte usuario y contraseña:"
+            android:textColor="@color/cttexto_oscuro"
+            android:textSize="16sp"
+            android:layout_marginBottom="12dp" />
 
-        <EditText
-            android:id="@+id/etInsertarUsuario"
-            android:layout_width="267dp"
-            android:layout_height="40dp"
-            android:background="@drawable/tarjeta"
-            android:hint="Usuario"
-            android:layout_margin="10dp"/>
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/CajaDeTexto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Usuario">
 
-        <EditText
-            android:id="@+id/etInsertarContrasenha"
-            android:layout_width="267dp"
-            android:layout_height="40dp"
-            android:background="@drawable/tarjeta"
-            android:hint="Contraseña"
-            android:inputType="textPassword"
-            android:layout_margin="10dp"/>
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/etInsertarUsuario"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </com.google.android.material.textfield.TextInputLayout>
 
-        <Button
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/CajaDeTexto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Contraseña">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/etInsertarContrasenha"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPassword" />
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.button.MaterialButton
             android:id="@+id/btnIniciarSesion"
-            android:layout_width="267dp"
-            android:layout_height="48dp"
-            android:text="Iniciar sesión"
-            android:layout_margin="10dp" />
+            style="@style/BotonVerde"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/al_iniciarSesion"
+            android:layout_marginBottom="12dp" />
 
         <TextView
             android:id="@+id/textView2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="o"
-            android:layout_marginBottom="5dp"/>
+            android:textColor="@color/cttexto_oscuro"
+            android:layout_marginBottom="5dp" />
 
         <TextView
             android:id="@+id/tvRegistrate"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Regístrate"
-            android:focusable="true"
+            android:textAlignment="center"
+            android:text="@string/al_registrarse"
+            android:textColor="#1565C0"
             android:clickable="true"
-            />
+            android:focusable="true" />
     </LinearLayout>
 </LinearLayout>

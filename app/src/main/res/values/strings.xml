@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SplashScreen</string>
+
+    <!-- activity_login -->
+    <string name="al_iniciarSesion">Iniciar Sesión</string>
+    <string name="al_registrarse">Registrarse</string>
 </resources>
