@@ -23,4 +23,11 @@
         <!-- Color de iconos de la barra (true = oscuros, false = claros) -->
         <item name="android:windowLightStatusBar">false</item>
     </style>
+
+    <style name="Theme.TurboTorque.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/fondoPrincipal</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/logogpt_turbotorquemarco</item>
+        <item name="windowSplashScreenAnimationDuration">2000</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.MyApp</item>
+    </style>
 </resources>

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">SplashScreen</string>
+    <string name="app_name">Tienda_TurboTorque</string>
 
     <!-- activity_login -->
     <string name="al_iniciarSesion">Iniciar Sesión</string>

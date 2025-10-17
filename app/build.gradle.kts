@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.splashscreen"
+    namespace = "com.example.tiendaturbotorque"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.splashscreen"
+        applicationId = "com.example.tiendaturbotorque"
         minSdk = 31
         targetSdk = 36
         versionCode = 1

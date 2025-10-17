@@ -1,14 +1,11 @@
-package com.example.splashscreen
+package com.example.tiendaturbotorque
 
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
-import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import androidx.activity.OnBackPressedCallback
-import androidx.activity.OnBackPressedDispatcher
 import androidx.activity.addCallback
 import androidx.core.content.ContextCompat
 
@@ -47,13 +44,17 @@ class RegistrateActivity : AppCompatActivity() {
             //Se procede a comprobar que el nombre de usuario no está repetido en RepositorioUsuarios.kt
             // y se continúa hacia MainActivity
             else if (RepositorioUsuarios.nombreUsuarioLibre(usuario)){
-                RepositorioUsuarios.registrarUsuario(usuario, contrasenha)
-                Toast.makeText(this, "Usuario creado con éxito", Toast.LENGTH_SHORT).show()
+                val exito = RepositorioUsuarios.registrarUsuario(usuario, contrasenha)
 
-                // Se redirige a MainActivity
-                val intent = Intent(this, MainActivity::class.java)
-                startActivity(intent)
-                finish()
+                if(exito){
+                    Toast.makeText(this, "Usuario creado con éxito", Toast.LENGTH_SHORT).show()
+                    // Se redirige a MainActivity
+                    val intent = Intent(this, MainActivity::class.java)
+                    startActivity(intent)
+                    finish()
+                } else {
+                    Toast.makeText(this, "Contraseña inválida. Debe tener mínimo 8 caracteres, un número y algún símbolo", Toast.LENGTH_SHORT).show()
+                }
             }
 
             else {

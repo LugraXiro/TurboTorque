@@ -1,4 +1,4 @@
-package com.example.splashscreen
+package com.example.tiendaturbotorque
 
 import android.content.Intent
 import android.os.Bundle
