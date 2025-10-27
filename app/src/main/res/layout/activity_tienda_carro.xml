@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/fondoPrincipal"
+    tools:context=".MainActivity">
+
+    <com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/tarjeta1"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_margin="10dp"
+        app:cardCornerRadius="12dp"
+        app:cardElevation="6dp"
+        app:strokeColor="#7A7878"
+        app:strokeWidth="2dp">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp">
+
+            <!-- Imagen del producto -->
+            <ImageView
+                android:id="@+id/imgProducto"
+                android:layout_width="160dp"
+                android:layout_height="100dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/llantas_mercedes"
+                android:layout_alignParentTop="true"
+                android:background="#E0E0E0"
+                android:contentDescription="@string/img_producto" />
+
+            <!-- Botón corazón -->
+            <ImageButton
+                android:id="@+id/btnFavorito"
+                android:layout_width="26dp"
+                android:layout_height="26dp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignTop="@id/imgProducto"
+                android:layout_margin="4dp"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                android:src="@drawable/heart"
+                android:tint="#E53935"
+                android:contentDescription="@string/favorito" />
+
+            <!-- Nombre del producto -->
+            <TextView
+                android:id="@+id/txtNombre"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/imgProducto"
+                android:layout_marginTop="4dp"
+                android:text="Llanta deportiva 18''"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:maxLines="1"
+                android:ellipsize="end" />
+
+            <!-- Precio -->
+            <TextView
+                android:id="@+id/txtPrecio"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txtNombre"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="2dp"
+                android:text="199.99€"
+                android:textColor="#2E7D32"
+                android:textSize="13sp"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/tarjeta2"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_toEndOf="@+id/tarjeta1"
+        app:cardCornerRadius="12dp"
+        app:cardElevation="6dp"
+        app:strokeColor="#7A7878"
+        app:strokeWidth="2dp"
+        android:layout_margin="10dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="16dp"
+            android:text="hola señorito"/>
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/tarjeta3"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_below="@+id/tarjeta1"
+        app:cardCornerRadius="12dp"
+        app:cardElevation="6dp"
+        app:strokeColor="#7A7878"
+        app:strokeWidth="2dp"
+        android:layout_margin="10dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="16dp"
+            android:text="hola señorito"/>
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/tarjeta4"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_below="@+id/tarjeta2"
+        android:layout_toEndOf="@id/tarjeta3"
+        app:cardCornerRadius="12dp"
+        app:cardElevation="6dp"
+        app:strokeColor="#7A7878"
+        app:strokeWidth="2dp"
+        android:layout_margin="10dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="16dp"
+            android:text="hola señorito"/>
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/tarjeta5"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_below="@+id/tarjeta3"
+        app:cardCornerRadius="12dp"
+        app:cardElevation="6dp"
+        app:strokeColor="#7A7878"
+        app:strokeWidth="2dp"
+        android:layout_margin="10dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="16dp"
+            android:text="hola señorito"/>
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/tarjeta6"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:layout_below="@+id/tarjeta4"
+        android:layout_toEndOf="@id/tarjeta5"
+        app:cardCornerRadius="12dp"
+        app:cardElevation="6dp"
+        app:strokeColor="#7A7878"
+        app:strokeWidth="2dp"
+        android:layout_margin="10dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp"
+        android:text="hola señorito"/>
+    </com.google.android.material.card.MaterialCardView>
+</RelativeLayout>

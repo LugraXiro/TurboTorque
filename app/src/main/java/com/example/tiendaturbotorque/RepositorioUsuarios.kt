@@ -18,7 +18,7 @@ object RepositorioUsuarios {
         val validador = PasswordValidator()
 
         if (!validador.esValida(contrasenha)) {
-            println("Error: ${validador.obtenerMotivoInvalidez(contrasenha)}")
+            println("Error: Jose${validador.obtenerMotivoInvalidez(contrasenha)}")
             return false
         }
         if (credencialesUsuario.containsKey(usuario)) return false
