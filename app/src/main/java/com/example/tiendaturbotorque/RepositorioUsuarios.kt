@@ -4,6 +4,7 @@ object RepositorioUsuarios {
     // Defino un mapa que se modificable (mutable) para las credenciales
     // Ambos datos son String
     private val credencialesUsuario = mutableMapOf(
+        "admin" to "admin",
         "Jose" to "abcd1234#",
         "Manuel" to "qwerty1#"
     )

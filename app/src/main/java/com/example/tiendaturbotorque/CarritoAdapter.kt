@@ -31,30 +31,24 @@ class CarritoAdapter(
             imgProducto.setImageResource(item.producto.imagenRes)
             txtNombre.text = item.producto.nombre
             txtPrecio.text = "%.2f €".format(item.producto.precio)
-            etCajaCantidad.setText(item.cantidad.toString())
+            txtCantidad.text = item.cantidad.toString()
 
-            // Listener para cambio de cantidad
-            etCajaCantidad.setOnEditorActionListener { _, _, _ ->
-                val nuevaCantidad = etCajaCantidad.text.toString().toIntOrNull() ?: 1
-                if (nuevaCantidad > 0) {
-                    item.cantidad = nuevaCantidad
+            // Botón eliminar
+            btnEliminar.setOnClickListener {
+                if (item.cantidad > 1) {
+                    // Si hay más de 1, reducir cantidad
+                    item.cantidad--
+                    notifyItemChanged(position)
                     onCantidadCambiada()
-                }
-                true
-            }
-
-            // Por si acaso, también detectar cambios al perder el foco
-            etCajaCantidad.setOnFocusChangeListener { _, hasFocus ->
-                if (!hasFocus) {
-                    val nuevaCantidad = etCajaCantidad.text.toString().toIntOrNull() ?: 1
-                    if (nuevaCantidad > 0) {
-                        item.cantidad = nuevaCantidad
-                        onCantidadCambiada()
-                    }
+                } else {
+                    // Si solo hay 1, eliminar del carrito
+                    onEliminar(item)
                 }
             }
         }
     }
+
+
 
     override fun getItemCount() = lista.size
 }

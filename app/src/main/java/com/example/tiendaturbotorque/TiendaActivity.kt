@@ -33,6 +33,9 @@ class TiendaActivity : AppCompatActivity() {
             añadirAlCarrito(producto)
         }
 
+        binding.recyclerProductos.layoutManager = GridLayoutManager(this, 2)
+        binding.recyclerProductos.adapter = adapter
+
         // Configurar RecyclerView del carrito
         carritoAdapter = CarritoAdapter(
             lista = carrito,
