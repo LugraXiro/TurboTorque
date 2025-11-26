@@ -49,7 +49,7 @@ class RegistrateActivity : AppCompatActivity() {
                 if(exito){
                     Toast.makeText(this, "Usuario creado con éxito", Toast.LENGTH_SHORT).show()
                     // Se redirige a MainActivity
-                    val intent = Intent(this, MainActivity::class.java)
+                    val intent = Intent(this, TiendaActivity::class.java)
                     startActivity(intent)
                     finish()
                 } else {

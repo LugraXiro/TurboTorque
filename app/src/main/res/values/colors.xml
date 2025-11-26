@@ -22,4 +22,10 @@
     <color name="ctbeige_fondo">#F2EAD3</color>
 
     <color name="ctborde_caja">#B7A88A</color>
+
+    <!-- Colores de la tienda -->
+    <color name="verde_principal">#8BC34A</color>
+    <color name="naranja_total">#F8B34C</color>
+    <color name="rojo_precio">#D32F2F</color>
+    <color name="divider">#22000000</color>
 </resources>

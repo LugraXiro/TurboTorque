@@ -5,70 +5,32 @@
     android:layout_height="match_parent"
     android:background="@android:color/white">
 
-    <!-- RecyclerView de productos (grid superior) -->
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recyclerProductos"
+    <View
+        android:id="@+id/marco"
         android:layout_width="match_parent"
-        android:layout_height="550dp"
-        android:background="#F8BBD0"
-        android:padding="8dp"/>
+        android:layout_height="300dp"
+        android:background="#F8BBD0">
 
-    <!-- Título de la lista del carrito -->
-    <RelativeLayout
-        android:id="@+id/tituloListaCompra"
+    </View>
+
+    <!-- Título opcional -->
+    <TextView
+        android:id="@+id/txtTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Resumen del carrito"
+        android:layout_below="@id/marco"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:padding="16dp" />
+
+    <!-- Contenido desplazable (lista de líneas) -->
+    <FrameLayout
+        android:id="@+id/listContainer"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/recyclerProductos"
-        android:paddingLeft="16dp"
-        android:paddingRight="16dp"
-        android:paddingTop="8dp"
-        android:paddingBottom="8dp">
-
-        <TextView
-            android:id="@+id/tituloListaCompraProducto"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="PRODUCTO"
-            android:textStyle="bold"
-            android:textSize="12sp"/>
-
-        <TextView
-            android:id="@+id/tituloListaCompraPrecio"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="60dp"
-            android:layout_toEndOf="@id/tituloListaCompraProducto"
-            android:text="PRECIO"
-            android:textStyle="bold"
-            android:textSize="12sp"/>
-
-        <TextView
-            android:id="@+id/tituloListaCompraCantidad"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginLeft="60dp"
-            android:layout_toEndOf="@id/tituloListaCompraPrecio"
-            android:text="CANTIDAD"
-            android:textStyle="bold"
-            android:textSize="12sp"/>
-
-        <!-- Línea divisoria inferior -->
-        <View
-            android:id="@+id/lineaInferior"
-            android:layout_width="match_parent"
-            android:layout_height="1dp"
-            android:layout_below="@id/tituloListaCompraCantidad"
-            android:layout_marginTop="8dp"
-            android:background="#22000000" />
-    </RelativeLayout>
-
-    <!-- RecyclerView del carrito (lista de productos añadidos) -->
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recyclerCarrito"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@id/tituloListaCompra"
-        android:layout_above="@id/bottomBar"
+        android:layout_below="@id/txtTitle"
+        android:layout_above="@+id/bottomBar"
         android:paddingLeft="16dp"
         android:paddingRight="16dp" />
 
@@ -91,7 +53,7 @@
             android:layout_alignParentTop="true"
             android:background="@color/divider" />
 
-        <!-- "Total" a la izquierda -->
+        <!-- “TOTAL” a la izquierda -->
         <TextView
             android:id="@+id/labelTotal"
             android:layout_width="wrap_content"
@@ -99,7 +61,7 @@
             android:layout_below="@id/divider"
             android:layout_alignParentStart="true"
             android:layout_marginTop="12dp"
-            android:text="Total"
+            android:text="TOTAL"
             android:textStyle="bold"
             android:textAllCaps="true"
             android:letterSpacing="0.06"
@@ -113,21 +75,22 @@
             android:layout_height="wrap_content"
             android:layout_alignParentEnd="true"
             android:layout_alignBaseline="@id/labelTotal"
-            android:text="0,00 €"
+            android:text="500 euros"
             android:textStyle="bold"
             android:textSize="16sp"
             android:textColor="@android:color/black" />
 
-        <!-- Botón pagar -->
-        <Button
+        <!-- Botón pagar anclado al borde inferior -->
+        <TextView
             android:id="@+id/btnPagar"
             android:layout_width="match_parent"
-            android:layout_height="48dp"
+            android:layout_height="60dp"
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="8dp"
             android:layout_below="@id/valueTotal"
-            android:text="COMPRAR (0)"
+            android:gravity="center"
+            android:text="Pagar"
             android:textStyle="bold"
             android:textColor="@android:color/white"
             android:background="@drawable/bg_primary_btn" />

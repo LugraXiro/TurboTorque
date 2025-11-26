@@ -1,4 +1,7 @@
 package com.example.tiendaturbotorque
 
-class Producto {
-}
+data class Producto (
+    val nombre: String,
+    val precio: Double,
+    val imagenRes: Int
+)

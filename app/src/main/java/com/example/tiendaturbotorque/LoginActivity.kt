@@ -42,7 +42,7 @@ class LoginActivity : AppCompatActivity(){
                     Toast.makeText(this, "Login con $usuario", Toast.LENGTH_SHORT).show()
 
                     // Lanzar MainActivity. Intent se usa para lanzar Activitys, iniciar servicios o mandar info entre componentes.
-                    val intent = Intent(this, MainActivity::class.java)
+                    val intent = Intent(this, TiendaActivity::class.java)
                     startActivity(intent)
                     finish() //cierra LoginActivity para que no se pueda volver al darle al botón de atrás.
                 } else {
