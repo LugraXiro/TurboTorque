@@ -4,10 +4,12 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.tiendaturbotorque.databinding.ItemProductoTiendaBinding
+import android.content.Intent
 
 class ProductosAdapter(
     private val lista: List<Producto>,
-    private val onAñadirCarrito: (Producto) -> Unit
+    private val onAñadirCarrito: (Producto) -> Unit,
+    private val onVerDetalle: (Producto, android.content.Intent) -> Unit
 ) : RecyclerView.Adapter<ProductosAdapter.ProductoViewHolder>() {
 
     inner class ProductoViewHolder(val binding: ItemProductoTiendaBinding) :
@@ -36,6 +38,16 @@ class ProductosAdapter(
             // Click en botón añadir
             btnAnadirCarrito.setOnClickListener {
                 onAñadirCarrito(producto)
+            }
+
+            // Click en la tarjeta completa para ver detalle
+            tarjeta2.setOnClickListener {
+                val intent = Intent(holder.itemView.context, DetalleProductoActivity::class.java).apply {
+                    putExtra("PRODUCTO_NOMBRE", producto.nombre)
+                    putExtra("PRODUCTO_PRECIO", producto.precio)
+                    putExtra("PRODUCTO_IMAGEN", producto.imagenRes)
+                }
+                onVerDetalle(producto, intent)
             }
         }
     }
