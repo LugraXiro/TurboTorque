@@ -46,6 +46,7 @@ class ProductosAdapter(
                     putExtra("PRODUCTO_NOMBRE", producto.nombre)
                     putExtra("PRODUCTO_PRECIO", producto.precio)
                     putExtra("PRODUCTO_IMAGEN", producto.imagenRes)
+                    putExtra("PRODUCTO_CATEGORIA", producto.categoria)
                 }
                 onVerDetalle(producto, intent)
             }

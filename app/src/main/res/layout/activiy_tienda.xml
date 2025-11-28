@@ -5,12 +5,46 @@
     android:layout_height="match_parent"
     android:background="@android:color/white">
 
+    <!-- Header verde con título y spinner -->
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:layout_alignParentTop="true"
+        android:background="#8BC34A"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp">
+
+        <!-- Título "Tienda" a la izquierda -->
+        <TextView
+            android:id="@+id/txtTitulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:text="Tienda"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@android:color/white" />
+
+        <!-- Spinner de categorías a la derecha -->
+        <Spinner
+            android:id="@+id/spinnerCategorias"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:minWidth="150dp"
+            android:background="@android:drawable/btn_dropdown"
+            android:popupBackground="@android:color/white" />
+    </RelativeLayout>
+
     <!-- RecyclerView de productos (grid superior) -->
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerProductos"
         android:layout_width="match_parent"
         android:layout_height="300dp"
-        android:background="#F8BBD0"
+        android:layout_below="@id/header"
         android:padding="8dp"/>
 
     <!-- Título de la lista del carrito -->
