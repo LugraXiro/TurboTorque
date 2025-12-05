@@ -19,6 +19,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 
@@ -61,7 +62,6 @@ class DetalleProductoActivity : ComponentActivity() {
         }
     }
 }
-
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun DetalleProductoScreen(
@@ -112,7 +112,6 @@ fun DetalleProductoScreen(
         )
     }
 }
-
 @Composable
 fun ContenidoProducto(
     modifier: Modifier = Modifier,
@@ -213,7 +212,6 @@ fun ContenidoProducto(
         }
     }
 }
-
 @Composable
 fun EspecRow(label: String, value: String) {
     Row(
@@ -235,7 +233,6 @@ fun EspecRow(label: String, value: String) {
         )
     }
 }
-
 @Composable
 fun BottomBar(
     cantidad: Int,

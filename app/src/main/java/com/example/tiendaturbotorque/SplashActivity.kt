@@ -12,6 +12,9 @@ class SplashActivity : ComponentActivity() {
         val splashScreen = installSplashScreen()
         super.onCreate(savedInstanceState)
 
+        // INICIALIZAR LA BASE DE DATOS AQUÍ
+        RepositorioUsuarios.inicializar(this)
+
         // Aquí defines la Activity a la que redirigirá
         val intent = Intent(this, LoginActivity::class.java)
         startActivity(intent)

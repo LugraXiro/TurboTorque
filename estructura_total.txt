@@ -1,4 +1,4 @@
-Estructura completa del proyecto - 27/10/2025 14:41:29,88 
+Estructura completa del proyecto - 05/12/2025 18:34:44,22 
  
 Listado de rutas de carpetas
 El n£mero de serie del volumen es E498-FF7D
@@ -14,8 +14,10 @@ C:.
 |   gradle.properties
 |   gradlew
 |   gradlew.bat
+|   IconoXRojaSVG.txt
 |   local.properties
 |   settings.gradle.kts
+|   VolanteEnSVG.txt
 |   
 +---.gradle
 |   |   config.properties
@@ -48,8 +50,6 @@ C:.
 |   |       cache.properties
 |   |       outputFiles.bin
 |   |       
-|   +---kotlin
-|   |   \---errors
 |   \---vcs-1
 |           gc.properties
 |           
@@ -65,17 +65,21 @@ C:.
 |   |   migrations.xml
 |   |   misc.xml
 |   |   runConfigurations.xml
-|   |   tiendaTurboTorque.iml
+|   |   studiobot.xml
 |   |   vcs.xml
 |   |   workspace.xml
 |   |   
 |   +---caches
 |   |       deviceStreaming.xml
 |   |       
-|   \---codeStyles
-|           codeStyleConfig.xml
-|           Project.xml
-|           
+|   +---codeStyles
+|   |       codeStyleConfig.xml
+|   |       Project.xml
+|   |       
+|   \---modules
+|       \---app
+|               SplashScreen.app.iml
+|               
 +---.kotlin
 |   +---errors
 |   |       errors-1759005310358.log
@@ -88,6 +92,25 @@ C:.
 |   |   
 |   +---build
 |   |   +---generated
+|   |   |   +---ap_generated_sources
+|   |   |   |   \---debug
+|   |   |   |       \---out
+|   |   |   +---data_binding_base_class_source_out
+|   |   |   |   \---debug
+|   |   |   |       \---out
+|   |   |   |           \---com
+|   |   |   |               \---example
+|   |   |   |                   \---tiendaturbotorque
+|   |   |   |                       \---databinding
+|   |   |   |                               ActivityLoginBinding.java
+|   |   |   |                               ActivityMainBinding.java
+|   |   |   |                               ActivityRegistrateBinding.java
+|   |   |   |                               ActiviyTiendaBinding.java
+|   |   |   |                               ItemCarritoTiendaBinding.java
+|   |   |   |                               ItemProductoTiendaBinding.java
+|   |   |   |                               JavierActivityCartSummaryBinding.java
+|   |   |   |                               JavierItemProductoBinding.java
+|   |   |   |                               
 |   |   |   +---res
 |   |   |   |   +---pngs
 |   |   |   |   |   \---debug
@@ -139,14 +162,45 @@ C:.
 |   |   |   |   \---debug
 |   |   |   |       \---compressDebugAssets
 |   |   |   |           \---out
+|   |   |   +---data_binding_base_class_log_artifact
+|   |   |   |   \---debug
+|   |   |   |       \---dataBindingGenBaseClassesDebug
+|   |   |   |           \---out
+|   |   |   |                   com.example.tiendaturbotorque-binding_classes.json
+|   |   |   |                   
+|   |   |   +---data_binding_dependency_artifacts
+|   |   |   |   \---debug
+|   |   |   |       \---dataBindingMergeDependencyArtifactsDebug
 |   |   |   +---data_binding_layout_info_type_merge
 |   |   |   |   \---debug
 |   |   |   |       \---mergeDebugResources
 |   |   |   |           \---out
+|   |   |   |                   activity_login-layout-land.xml
+|   |   |   |                   activity_login-layout.xml
+|   |   |   |                   activity_main-layout.xml
+|   |   |   |                   activity_registrate-layout-land.xml
+|   |   |   |                   activity_registrate-layout.xml
+|   |   |   |                   activiy_tienda-layout.xml
+|   |   |   |                   item_carrito_tienda-layout.xml
+|   |   |   |                   item_producto_tienda-layout.xml
+|   |   |   |                   javier_activity_cart_summary-layout.xml
+|   |   |   |                   javier_item_producto-layout.xml
+|   |   |   |                   
 |   |   |   +---data_binding_layout_info_type_package
 |   |   |   |   \---debug
 |   |   |   |       \---packageDebugResources
 |   |   |   |           \---out
+|   |   |   |                   activity_login-layout-land.xml
+|   |   |   |                   activity_login-layout.xml
+|   |   |   |                   activity_main-layout.xml
+|   |   |   |                   activity_registrate-layout-land.xml
+|   |   |   |                   activity_registrate-layout.xml
+|   |   |   |                   activiy_tienda-layout.xml
+|   |   |   |                   item_carrito_tienda-layout.xml
+|   |   |   |                   item_producto_tienda-layout.xml
+|   |   |   |                   javier_activity_cart_summary-layout.xml
+|   |   |   |                   javier_item_producto-layout.xml
+|   |   |   |                   
 |   |   |   +---desugar_graph
 |   |   |   |   \---debug
 |   |   |   |       \---dexBuilderDebug
@@ -172,6 +226,7 @@ C:.
 |   |   |   |       +---mergeExtDexDebug
 |   |   |   |       |       classes.dex
 |   |   |   |       |       classes2.dex
+|   |   |   |       |       classes3.dex
 |   |   |   |       |       
 |   |   |   |       +---mergeLibDexDebug
 |   |   |   |       |   +---0
@@ -199,6 +254,8 @@ C:.
 |   |   |   |           +---11
 |   |   |   |           +---12
 |   |   |   |           +---13
+|   |   |   |           |       classes.dex
+|   |   |   |           |       
 |   |   |   |           +---14
 |   |   |   |           +---15
 |   |   |   |           +---2
@@ -236,6 +293,9 @@ C:.
 |   |   |   |       \---dexBuilderDebug
 |   |   |   |           \---out
 |   |   |   +---incremental
+|   |   |   |   +---dataBindingGenBaseClassesDebug
+|   |   |   |   |       base_builder_log.json
+|   |   |   |   |       
 |   |   |   |   +---debug
 |   |   |   |   |   +---mergeDebugResources
 |   |   |   |   |   |   |   compile-file-map.properties
@@ -246,6 +306,9 @@ C:.
 |   |   |   |   |   |   |           values.xml
 |   |   |   |   |   |   |           
 |   |   |   |   |   |   \---stripped.dir
+|   |   |   |   |   |       \---layout
+|   |   |   |   |   |               activiy_tienda.xml
+|   |   |   |   |   |               
 |   |   |   |   |   \---packageDebugResources
 |   |   |   |   |       |   compile-file-map.properties
 |   |   |   |   |       |   merger.xml
@@ -255,68 +318,97 @@ C:.
 |   |   |   |   |       |           values.xml
 |   |   |   |   |       |           
 |   |   |   |   |       \---stripped.dir
+|   |   |   |   |           \---layout
+|   |   |   |   |                   activiy_tienda.xml
+|   |   |   |   |                   
 |   |   |   |   +---debug-mergeJavaRes
 |   |   |   |   |   |   merge-state
 |   |   |   |   |   |   
 |   |   |   |   |   \---zip-cache
+|   |   |   |   |           +k9qbsvstrkWrGp7vIHnWg==
 |   |   |   |   |           +O08ZJVqCnbPvy9g9Rz7RQ==
-|   |   |   |   |           1ENs5sQYmyOkcFJ2jdbWXQ==
-|   |   |   |   |           1K34MAn+2kU0uLHW_vqegg==
+|   |   |   |   |           +XvZy_hZOFlRL5XGBgcXqQ==
+|   |   |   |   |           0K3vy7LXcyoEzwHHs4T0Yg==
+|   |   |   |   |           0q_2Q6CgDoIMa50+U2V2zg==
+|   |   |   |   |           1ig1nvhx8_BKloRcLS5ZAw==
 |   |   |   |   |           21xPXW8ZHAXNfR6nZ5kBPw==
-|   |   |   |   |           3zmoE7UA+gAAtPJ6FYDPhQ==
-|   |   |   |   |           5RtvxuDevHcLmxykgNa2BQ==
-|   |   |   |   |           66xDKigZoB6Odci5JKXs0Q==
-|   |   |   |   |           7TRoU8c_sz7EjIGL6kIYTQ==
+|   |   |   |   |           2uQHa5EmuLbr7XItkGflMg==
+|   |   |   |   |           2ZvDS6QE+LshZ+_hreAUrA==
+|   |   |   |   |           39t1A68rUaLOVU2Xzxe3GQ==
+|   |   |   |   |           4lXf_ERDmJFtoPJvnYqCOQ==
+|   |   |   |   |           4YuIxBfs3BqkJolpxqXgYA==
+|   |   |   |   |           5+BnStk6VXTrEbXX+aVfvw==
+|   |   |   |   |           5RPBpgXwF_5DACZos2L4Tg==
+|   |   |   |   |           6GGYaEsLgTABVM1xoopz7g==
+|   |   |   |   |           6jNwCzOhv405aGwjTXqbYQ==
+|   |   |   |   |           6MW6KbBgQtVB2kuhhNSmwQ==
+|   |   |   |   |           71gl+Ek5GUXNyTUQEltxqg==
+|   |   |   |   |           8PKQOaa5Vwv7VL2FV1hFJw==
+|   |   |   |   |           8zyrl_2RcxXEn4XWr8u3Fg==
+|   |   |   |   |           9IXFGeCJdc6vLwN1x2FaDQ==
+|   |   |   |   |           AbHnCuHY7dMpqw4rtavgqQ==
 |   |   |   |   |           AC81bUV5RbOd9fAw3ZyiGA==
-|   |   |   |   |           B6R4Z6fLCgT9SOstjbp5mA==
-|   |   |   |   |           bb34mu_5euhxk+CprF+RNg==
-|   |   |   |   |           bNyHHE58miikgZQjy6uyEQ==
-|   |   |   |   |           cEKK8npVye489t0cRhS4vg==
+|   |   |   |   |           AclQ8ddG3SBCuo1rSoyCkQ==
+|   |   |   |   |           aHg+yPmiiaL3P2UEIvyY8A==
+|   |   |   |   |           b+LEzLSEl8YSMs1oBXxLzw==
+|   |   |   |   |           bdGMd_kyeCZ0IivIy9JuGg==
+|   |   |   |   |           c0EnGZxM_Iq4ukFTAuq3Bg==
 |   |   |   |   |           CJzaY6cVVku+64kYF5JUDA==
-|   |   |   |   |           cz8OUVgMwep2pG5R3D5f0A==
 |   |   |   |   |           dcxPwz4h5JF4qJXJKqrO4w==
 |   |   |   |   |           ddyYIdz_ytHUmkRLsTIOwQ==
-|   |   |   |   |           DmPDzGNs+sminTopr+lJnQ==
-|   |   |   |   |           DsvWWvXQWZoM_ktmawYeLg==
-|   |   |   |   |           E0tZSDopa+ZM2TjWcCyb7Q==
-|   |   |   |   |           g9IKrYECH+qGzpOkzHfCOA==
-|   |   |   |   |           gBF01UscYHS6q4iAYzgIPg==
+|   |   |   |   |           dVA9ZsKjqIGQdf7JTA_cYA==
+|   |   |   |   |           e7oD6aasBMfoS+Uuz8+V5A==
+|   |   |   |   |           E9qy7Ujd9hMGlGxUMGUmLQ==
+|   |   |   |   |           FFw5bAe9yOXKBJjpveNreg==
+|   |   |   |   |           fXi2e0Fdu3auTv+YO0LyLA==
+|   |   |   |   |           G1s263TMSqOSosU1Pogjnw==
 |   |   |   |   |           gue8wro72VCyh6LIC+xYTw==
-|   |   |   |   |           h7kSmPoVfOAEJzPQMTvupQ==
-|   |   |   |   |           i6Kr_H5MfUwzaB4nmDv8yA==
+|   |   |   |   |           hfaVakYTBVW+vqVXZBlsGA==
+|   |   |   |   |           hgf5VjGXYWRTd1xyfHCyOQ==
+|   |   |   |   |           hI0YKOVaJgWJ_9FTr5JU8Q==
+|   |   |   |   |           hJ2gpXD+ymeHM9jvwHwzzQ==
+|   |   |   |   |           HXzWm4ItvPqmrhrlIT_9uQ==
+|   |   |   |   |           I0blaFv3zAuH9Sg8T6IimA==
+|   |   |   |   |           i1Q0WTD1lbQjx4Zjbkn52w==
+|   |   |   |   |           Ik0kJDuFGBozQq1ennbU6Q==
+|   |   |   |   |           ISybEbRjPbTGmHEpuUP7iA==
 |   |   |   |   |           IZWt867MiD7lO0ZyXdZrMQ==
-|   |   |   |   |           kF84ld14oMb+doh9+jHKYg==
-|   |   |   |   |           kt6NWxSVDk0x+EsjUnZ51g==
-|   |   |   |   |           KtY0qWW7+cveMLaOQwk2SA==
-|   |   |   |   |           LhD+9Ecn1ObI63QVxYxJtA==
-|   |   |   |   |           LU_DtI9x335_u62UumtGEg==
-|   |   |   |   |           m0mfcMXtK+gZGt6qOdF8bw==
-|   |   |   |   |           O+9HUPoZ8tSeVgDmwN52Xw==
-|   |   |   |   |           OG7Dy6Zf_7sKF_YdvkEvgQ==
-|   |   |   |   |           oX5Caxr_24LZOs811+lgag==
-|   |   |   |   |           P3FltOqroyHJUE_H7lYP+w==
+|   |   |   |   |           J86ycCDAAM859wtArGS90A==
+|   |   |   |   |           KiJyf3Wa5XkYp0n80HAcdA==
+|   |   |   |   |           k_tQpQCyaEMP7mkwDOMqWQ==
+|   |   |   |   |           Lg67YfX83Y14BpbQLPltUA==
+|   |   |   |   |           lHzpnacJBEVEtCv3Uqk8kw==
+|   |   |   |   |           MaXuVqQs9M9D33_Qa3XHLg==
+|   |   |   |   |           mCIH7DYJYjR4hDgub2KayA==
+|   |   |   |   |           miHAqjxct_Fgp8jriJtOZQ==
+|   |   |   |   |           ML3Ea9uid1ujJIKDvYGiiw==
+|   |   |   |   |           ModTiTFHXMeal3S5qXoojg==
+|   |   |   |   |           N2jJ_2PpKUV4Ld0w2TH04w==
+|   |   |   |   |           NN1hdI_83uF_8WE3vwfVwA==
+|   |   |   |   |           oBi84VWIgbdALYU7qLLOWA==
+|   |   |   |   |           ouAthCLg879sktJJwxnSlQ==
+|   |   |   |   |           oWylL7jqxXsIaxjEO+UioQ==
 |   |   |   |   |           Pa4Hf6UxvYLM6njFAxxC8g==
-|   |   |   |   |           PbE3CCmC6B6YPwQ06NeeeA==
+|   |   |   |   |           PCa+6w1Mn0srhmw_s4+Z0Q==
 |   |   |   |   |           QATutGDfCPFfvneTuKn81Q==
-|   |   |   |   |           RZFrc0HxVS7LLgd26+JnhA==
-|   |   |   |   |           sp987QJt_QRAFTCl6atNjA==
-|   |   |   |   |           T3NX2azoo98OdvOTzMhbJg==
-|   |   |   |   |           T8+YWcwFlByHrCw5egr5qQ==
-|   |   |   |   |           TUKjcvhxQyVWprmKJdjhZw==
-|   |   |   |   |           u5bOCUwsuL2W1+AMPFqpVA==
+|   |   |   |   |           QpodwvX0QNiJWbHzFmtgvA==
+|   |   |   |   |           QZVB3ARbOfhabvzl9PxvPA==
+|   |   |   |   |           RlejZoSjIeKd8w6b9FpIbw==
+|   |   |   |   |           sKJIkY+AZesRLMw7Im50aA==
+|   |   |   |   |           T0viiUHTABkQRrqjVW5NLQ==
+|   |   |   |   |           TYPp_sGXxJb8iyf8LXRmxA==
 |   |   |   |   |           uaql3FIZuKnO72wTLmUgXA==
-|   |   |   |   |           uDWkLOM6EqHB_JYb45xEQg==
-|   |   |   |   |           uEMOawli5lL1r23IvS9hew==
-|   |   |   |   |           uO9a9yfyG0z3PJUvftYWAw==
-|   |   |   |   |           UVRjfiaA1VL3y8+yyDlt1Q==
-|   |   |   |   |           v1cyjIPrDumtbQc+Ln5XjQ==
-|   |   |   |   |           VKC32IpCb51R+ft79hKPqw==
-|   |   |   |   |           VkGia1gUnjqLmJhfUTKZPg==
-|   |   |   |   |           VMYOUw3h3fHii5rAP3X7Rw==
+|   |   |   |   |           VveM9Fz9_4qtytWlOwYoIw==
 |   |   |   |   |           waiSCpqjQFqsTvPsbkUV2g==
-|   |   |   |   |           XsiOtmLc+TzmFEcew7osPA==
-|   |   |   |   |           YcvJ6JFSV5hU5Z4Ubieu2w==
+|   |   |   |   |           wsBU8aKzbYss9JzHhuT+9g==
+|   |   |   |   |           WsKGZbfetlu88k9FBX54NQ==
+|   |   |   |   |           wsuLqvvWqf5s_FmSOFdOQg==
+|   |   |   |   |           XczAe6siEkjDAKMynJhLKw==
+|   |   |   |   |           XqOF_oZXPChdpT7mH1D5ug==
+|   |   |   |   |           Yk1OL_i45QFL8ulETkYV1w==
+|   |   |   |   |           yy3MLrBA2oNIx47esHV7YQ==
 |   |   |   |   |           zbxEWduIEAsk8qYmPK0WgQ==
+|   |   |   |   |           ZzKOwFxr_oDtyTu3OtH6AQ==
 |   |   |   |   |           _D++k87Zh0I5oeVPu+EIeA==
 |   |   |   |   |           
 |   |   |   |   +---mergeDebugAssets
@@ -328,15 +420,35 @@ C:.
 |   |   |   |   +---mergeDebugShaders
 |   |   |   |   |       merger.xml
 |   |   |   |   |       
-|   |   |   |   \---packageDebug
-|   |   |   |       \---tmp
-|   |   |   |           \---debug
-|   |   |   |               |   dex-renamer-state.txt
-|   |   |   |               |   
-|   |   |   |               \---zip-cache
-|   |   |   |                       androidResources
-|   |   |   |                       javaResources0
-|   |   |   |                       
+|   |   |   |   +---packageDebug
+|   |   |   |   |   \---tmp
+|   |   |   |   |       \---debug
+|   |   |   |   |           |   dex-renamer-state.txt
+|   |   |   |   |           |   
+|   |   |   |   |           \---zip-cache
+|   |   |   |   |                   androidResources
+|   |   |   |   |                   javaResources0
+|   |   |   |   |                   
+|   |   |   |   \---processDebugResources
+|   |   |   |           resources-list-for-linked-resources-binary-format-debug.ap_.txt
+|   |   |   |           
+|   |   |   +---javac
+|   |   |   |   \---debug
+|   |   |   |       \---compileDebugJavaWithJavac
+|   |   |   |           \---classes
+|   |   |   |               \---com
+|   |   |   |                   \---example
+|   |   |   |                       \---tiendaturbotorque
+|   |   |   |                           \---databinding
+|   |   |   |                                   ActivityLoginBinding.class
+|   |   |   |                                   ActivityMainBinding.class
+|   |   |   |                                   ActivityRegistrateBinding.class
+|   |   |   |                                   ActiviyTiendaBinding.class
+|   |   |   |                                   ItemCarritoTiendaBinding.class
+|   |   |   |                                   ItemProductoTiendaBinding.class
+|   |   |   |                                   JavierActivityCartSummaryBinding.class
+|   |   |   |                                   JavierItemProductoBinding.class
+|   |   |   |                                   
 |   |   |   +---java_res
 |   |   |   |   \---debug
 |   |   |   |       \---processDebugJavaRes
@@ -386,14 +498,20 @@ C:.
 |   |   |   +---merged_res
 |   |   |   |   \---debug
 |   |   |   |       \---mergeDebugResources
+|   |   |   |               drawable_bg_bottom_bar.xml.flat
+|   |   |   |               drawable_bg_primary_btn.xml.flat
+|   |   |   |               drawable_heart.xml.flat
+|   |   |   |               drawable_heart_png.png.flat
 |   |   |   |               drawable_ic_launcher_background.xml.flat
 |   |   |   |               drawable_ic_launcher_foreground.xml.flat
+|   |   |   |               drawable_llantas_mercedes.jpg.flat
 |   |   |   |               drawable_logogptpequenho.png.flat
 |   |   |   |               drawable_logogpt_turbotorque.png.flat
 |   |   |   |               drawable_logogpt_turbotorque192.png.flat
 |   |   |   |               drawable_logogpt_turbotorquemarco.png.flat
 |   |   |   |               drawable_splashscreen_logo.png.flat
 |   |   |   |               drawable_tarjeta.xml.flat
+|   |   |   |               drawable_volantemuestra.xml.flat
 |   |   |   |               font_lato_bold.xml.flat
 |   |   |   |               font_lato_regular.xml.flat
 |   |   |   |               layout-land_activity_login.xml.flat
@@ -401,6 +519,11 @@ C:.
 |   |   |   |               layout_activity_login.xml.flat
 |   |   |   |               layout_activity_main.xml.flat
 |   |   |   |               layout_activity_registrate.xml.flat
+|   |   |   |               layout_activiy_tienda.xml.flat
+|   |   |   |               layout_item_carrito_tienda.xml.flat
+|   |   |   |               layout_item_producto_tienda.xml.flat
+|   |   |   |               layout_javier_activity_cart_summary.xml.flat
+|   |   |   |               layout_javier_item_producto.xml.flat
 |   |   |   |               mipmap-anydpi-v26_ic_launcher.xml.flat
 |   |   |   |               mipmap-anydpi-v26_ic_launcher_round.xml.flat
 |   |   |   |               mipmap-hdpi_ic_launcher.webp.flat
@@ -658,7 +781,6 @@ C:.
 |   |   |   |               |       values-v28.json
 |   |   |   |               |       values-v29.json
 |   |   |   |               |       values-v31.json
-|   |   |   |               |       values-v33.json
 |   |   |   |               |       values-v34.json
 |   |   |   |               |       values-v35.json
 |   |   |   |               |       values-vi.json
@@ -676,6 +798,8 @@ C:.
 |   |   |   |               |       values.json
 |   |   |   |               |       
 |   |   |   |               \---single
+|   |   |   |                       layout-land.json
+|   |   |   |                       layout.json
 |   |   |   |                       mergeDebugResources.json
 |   |   |   |                       
 |   |   |   +---merged_shaders
@@ -706,14 +830,20 @@ C:.
 |   |   |   |   \---debug
 |   |   |   |       \---packageDebugResources
 |   |   |   |           +---drawable
+|   |   |   |           |       bg_bottom_bar.xml
+|   |   |   |           |       bg_primary_btn.xml
+|   |   |   |           |       heart.xml
+|   |   |   |           |       heart_png.png
 |   |   |   |           |       ic_launcher_background.xml
 |   |   |   |           |       ic_launcher_foreground.xml
+|   |   |   |           |       llantas_mercedes.jpg
 |   |   |   |           |       logogptpequenho.png
 |   |   |   |           |       logogpt_turbotorque.png
 |   |   |   |           |       logogpt_turbotorque192.png
 |   |   |   |           |       logogpt_turbotorquemarco.png
 |   |   |   |           |       splashscreen_logo.png
 |   |   |   |           |       tarjeta.xml
+|   |   |   |           |       volantemuestra.xml
 |   |   |   |           |       
 |   |   |   |           +---font
 |   |   |   |           |       lato_bold.xml
@@ -723,6 +853,11 @@ C:.
 |   |   |   |           |       activity_login.xml
 |   |   |   |           |       activity_main.xml
 |   |   |   |           |       activity_registrate.xml
+|   |   |   |           |       activiy_tienda.xml
+|   |   |   |           |       item_carrito_tienda.xml
+|   |   |   |           |       item_producto_tienda.xml
+|   |   |   |           |       javier_activity_cart_summary.xml
+|   |   |   |           |       javier_item_producto.xml
 |   |   |   |           |       
 |   |   |   |           +---layout-land
 |   |   |   |           |       activity_login.xml
@@ -732,7 +867,6 @@ C:.
 |   |   |   |           |       ic_launcher.xml
 |   |   |   |           |       ic_launcher_round.xml
 |   |   |   |           |       
-|   |   |   |           +---mipmap-anydpi-v4
 |   |   |   |           +---mipmap-hdpi-v4
 |   |   |   |           |       ic_launcher.webp
 |   |   |   |           |       ic_launcher_foreground.webp
@@ -764,7 +898,6 @@ C:.
 |   |   |   |           +---values-night-v8
 |   |   |   |           |       values-night-v8.xml
 |   |   |   |           |       
-|   |   |   |           +---values-v33
 |   |   |   |           \---xml
 |   |   |   |                   backup_rules.xml
 |   |   |   |                   data_extraction_rules.xml
@@ -773,20 +906,54 @@ C:.
 |   |   |   |   \---debug
 |   |   |   |       \---dexBuilderDebug
 |   |   |   |           \---out
-|   |   |   |               |   d9032d7190c66b7e05ec3c7fabb5ccf026c101d7f89ff7be134dc650a80e8a49_0.jar
-|   |   |   |               |   d9032d7190c66b7e05ec3c7fabb5ccf026c101d7f89ff7be134dc650a80e8a49_1.jar
+|   |   |   |               |   8521d2bf3cb6fa8413d8f83667971211881494b69771d500acac45bc178c90a3_0.jar
+|   |   |   |               |   8521d2bf3cb6fa8413d8f83667971211881494b69771d500acac45bc178c90a3_1.jar
 |   |   |   |               |   
 |   |   |   |               \---com
 |   |   |   |                   \---example
 |   |   |   |                       \---tiendaturbotorque
-|   |   |   |                               LoginActivity.dex
-|   |   |   |                               MainActivity$onCreate$3.dex
-|   |   |   |                               MainActivity.dex
-|   |   |   |                               PasswordValidator.dex
-|   |   |   |                               RegistrateActivity.dex
-|   |   |   |                               RepositorioUsuarios.dex
-|   |   |   |                               SplashActivity.dex
-|   |   |   |                               
+|   |   |   |                           |   CarritoAdapter$CarritoViewHolder.dex
+|   |   |   |                           |   CarritoAdapter.dex
+|   |   |   |                           |   CarritoItem.dex
+|   |   |   |                           |   ComposableSingletons$DetalleProductoActivityKt$lambda-1$1.dex
+|   |   |   |                           |   ComposableSingletons$DetalleProductoActivityKt$lambda-2$1.dex
+|   |   |   |                           |   ComposableSingletons$DetalleProductoActivityKt$lambda-3$1.dex
+|   |   |   |                           |   ComposableSingletons$DetalleProductoActivityKt$lambda-4$1.dex
+|   |   |   |                           |   ComposableSingletons$DetalleProductoActivityKt$lambda-5$1.dex
+|   |   |   |                           |   ComposableSingletons$DetalleProductoActivityKt.dex
+|   |   |   |                           |   DetalleProductoActivity$onCreate$1.dex
+|   |   |   |                           |   DetalleProductoActivity.dex
+|   |   |   |                           |   DetalleProductoActivityKt$BottomBar$1.dex
+|   |   |   |                           |   DetalleProductoActivityKt$ContenidoProducto$1$1.dex
+|   |   |   |                           |   DetalleProductoActivityKt$DetalleProductoScreen$1$1.dex
+|   |   |   |                           |   DetalleProductoActivityKt$DetalleProductoScreen$1.dex
+|   |   |   |                           |   DetalleProductoActivityKt$DetalleProductoScreen$2.dex
+|   |   |   |                           |   DetalleProductoActivityKt$DetalleProductoScreen$3.dex
+|   |   |   |                           |   DetalleProductoActivityKt.dex
+|   |   |   |                           |   LoginActivity.dex
+|   |   |   |                           |   MainActivity$onCreate$3.dex
+|   |   |   |                           |   MainActivity.dex
+|   |   |   |                           |   PasswordValidator.dex
+|   |   |   |                           |   Producto.dex
+|   |   |   |                           |   ProductoCarrito.dex
+|   |   |   |                           |   ProductosAdapter$ProductoViewHolder.dex
+|   |   |   |                           |   ProductosAdapter.dex
+|   |   |   |                           |   RegistrateActivity.dex
+|   |   |   |                           |   RepositorioUsuarios.dex
+|   |   |   |                           |   SplashActivity.dex
+|   |   |   |                           |   TiendaActivity$configurarSpinner$2.dex
+|   |   |   |                           |   TiendaActivity.dex
+|   |   |   |                           |   
+|   |   |   |                           \---databinding
+|   |   |   |                                   ActivityLoginBinding.dex
+|   |   |   |                                   ActivityMainBinding.dex
+|   |   |   |                                   ActivityRegistrateBinding.dex
+|   |   |   |                                   ActiviyTiendaBinding.dex
+|   |   |   |                                   ItemCarritoTiendaBinding.dex
+|   |   |   |                                   ItemProductoTiendaBinding.dex
+|   |   |   |                                   JavierActivityCartSummaryBinding.dex
+|   |   |   |                                   JavierItemProductoBinding.dex
+|   |   |   |                                   
 |   |   |   +---runtime_symbol_list
 |   |   |   |   \---debug
 |   |   |   |       \---processDebugResources
@@ -857,6 +1024,13 @@ C:.
 |   |   |       |       |           internal-name-to-source.tab.values.at
 |   |   |       |       |           internal-name-to-source.tab_i
 |   |   |       |       |           internal-name-to-source.tab_i.len
+|   |   |       |       |           package-parts.tab
+|   |   |       |       |           package-parts.tab.keystream
+|   |   |       |       |           package-parts.tab.keystream.len
+|   |   |       |       |           package-parts.tab.len
+|   |   |       |       |           package-parts.tab.values.at
+|   |   |       |       |           package-parts.tab_i
+|   |   |       |       |           package-parts.tab_i.len
 |   |   |       |       |           proto.tab
 |   |   |       |       |           proto.tab.keystream
 |   |   |       |       |           proto.tab.keystream.len
@@ -921,18 +1095,48 @@ C:.
 |   |   |           manifest-merger-debug-report.txt
 |   |   |           
 |   |   \---tmp
+|   |       +---compileDebugJavaWithJavac
+|   |       |   |   previous-compilation-data.bin
+|   |       |   |   
+|   |       |   \---compileTransaction
+|   |       |       +---backup-dir
+|   |       |       \---stash-dir
 |   |       \---kotlin-classes
 |   |           \---debug
 |   |               +---com
 |   |               |   \---example
 |   |               |       \---tiendaturbotorque
+|   |               |               CarritoAdapter$CarritoViewHolder.class
+|   |               |               CarritoAdapter.class
+|   |               |               CarritoItem.class
+|   |               |               ComposableSingletons$DetalleProductoActivityKt$lambda-1$1.class
+|   |               |               ComposableSingletons$DetalleProductoActivityKt$lambda-2$1.class
+|   |               |               ComposableSingletons$DetalleProductoActivityKt$lambda-3$1.class
+|   |               |               ComposableSingletons$DetalleProductoActivityKt$lambda-4$1.class
+|   |               |               ComposableSingletons$DetalleProductoActivityKt$lambda-5$1.class
+|   |               |               ComposableSingletons$DetalleProductoActivityKt.class
+|   |               |               DetalleProductoActivity$onCreate$1.class
+|   |               |               DetalleProductoActivity.class
+|   |               |               DetalleProductoActivityKt$BottomBar$1.class
+|   |               |               DetalleProductoActivityKt$ContenidoProducto$1$1.class
+|   |               |               DetalleProductoActivityKt$DetalleProductoScreen$1$1.class
+|   |               |               DetalleProductoActivityKt$DetalleProductoScreen$1.class
+|   |               |               DetalleProductoActivityKt$DetalleProductoScreen$2.class
+|   |               |               DetalleProductoActivityKt$DetalleProductoScreen$3.class
+|   |               |               DetalleProductoActivityKt.class
 |   |               |               LoginActivity.class
 |   |               |               MainActivity$onCreate$3.class
 |   |               |               MainActivity.class
 |   |               |               PasswordValidator.class
+|   |               |               Producto.class
+|   |               |               ProductoCarrito.class
+|   |               |               ProductosAdapter$ProductoViewHolder.class
+|   |               |               ProductosAdapter.class
 |   |               |               RegistrateActivity.class
 |   |               |               RepositorioUsuarios.class
 |   |               |               SplashActivity.class
+|   |               |               TiendaActivity$configurarSpinner$2.class
+|   |               |               TiendaActivity.class
 |   |               |               
 |   |               \---META-INF
 |   |                       app_debug.kotlin_module
@@ -955,18 +1159,23 @@ C:.
 |       |   |           \---tiendaturbotorque
 |       |   |                   CarritoAdapter.kt
 |       |   |                   CarritoItem.kt
+|       |   |                   DetalleProductoActivity.kt
 |       |   |                   LoginActivity.kt
 |       |   |                   MainActivity.kt
 |       |   |                   PasswordValidator.kt
 |       |   |                   Producto.kt
-|       |   |                   ProductoAdapter.kt
+|       |   |                   ProductoCarrito.kt
+|       |   |                   ProductosAdapter.kt
 |       |   |                   RegistrateActivity.kt
 |       |   |                   RepositorioUsuarios.kt
 |       |   |                   SplashActivity.kt
 |       |   |                   TiendaActivity.kt
+|       |   |                   UsuariosDBHelper.kt
 |       |   |                   
 |       |   \---res
 |       |       +---drawable
+|       |       |       bg_bottom_bar.xml
+|       |       |       bg_primary_btn.xml
 |       |       |       heart.xml
 |       |       |       heart_png.png
 |       |       |       ic_launcher_background.xml
@@ -978,6 +1187,7 @@ C:.
 |       |       |       logogpt_turbotorquemarco.png
 |       |       |       splashscreen_logo.png
 |       |       |       tarjeta.xml
+|       |       |       volantemuestra.xml
 |       |       |       
 |       |       +---font
 |       |       |       lato_bold.xml
@@ -987,17 +1197,16 @@ C:.
 |       |       |       activity_login.xml
 |       |       |       activity_main.xml
 |       |       |       activity_registrate.xml
-|       |       |       activity_tienda_carro.xml
 |       |       |       activiy_tienda.xml
-|       |       |       borrar_tarjeta.xml
 |       |       |       item_carrito_tienda.xml
 |       |       |       item_producto_tienda.xml
+|       |       |       javier_activity_cart_summary.xml
+|       |       |       javier_item_producto.xml
 |       |       |       
 |       |       +---layout-land
 |       |       |       activity_login.xml
 |       |       |       activity_registrate.xml
 |       |       |       
-|       |       +---mipmap-anydpi
 |       |       +---mipmap-anydpi-v26
 |       |       |       ic_launcher.xml
 |       |       |       ic_launcher_round.xml
@@ -1028,6 +1237,7 @@ C:.
 |       |       |       ic_launcher_round.webp
 |       |       |       
 |       |       +---values
+|       |       |       arrays.xml
 |       |       |       colors.xml
 |       |       |       font_certs.xml
 |       |       |       ic_launcher_background.xml
@@ -1039,7 +1249,6 @@ C:.
 |       |       +---values-night
 |       |       |       themes.xml
 |       |       |       
-|       |       +---values-v33
 |       |       \---xml
 |       |               backup_rules.xml
 |       |               data_extraction_rules.xml
@@ -1051,6 +1260,11 @@ C:.
 |                       \---tiendaturbotorque
 |                               ExampleUnitTest.kt
 |                               
++---build
+|   \---reports
+|       \---problems
+|               problems-report.html
+|               
 \---gradle
     |   libs.versions.toml
     |   
