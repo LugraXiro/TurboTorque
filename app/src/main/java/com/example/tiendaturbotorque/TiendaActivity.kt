@@ -47,11 +47,11 @@ class TiendaActivity : AppCompatActivity() {
 
         // Lista de productos de ejemplo
         val productos = listOf(
-            Producto("Llantas RR Sport 19\"", 249.99, R.drawable.ic_launcher_foreground, "LLANTAS"),
-            Producto("Llanta Xtreme", 230.00, R.drawable.ic_launcher_foreground, "LLANTAS"),
-            Producto("Llanta Deportiva Z 20\"", 310.00, R.drawable.ic_launcher_foreground, "LLANTAS"),
-            Producto("Neumático Michelin 195/65", 89.99, R.drawable.ic_launcher_foreground, "NEUMÁTICOS"),
-            Producto("Neumático Pirelli 205/55", 95.50, R.drawable.ic_launcher_foreground, "NEUMÁTICOS")
+            Producto("Llantas RR Sport 19\"", 249.99, R.drawable.sport, "LLANTAS"),
+            Producto("Llanta Xtreme", 230.00, R.drawable.xtreme, "LLANTAS"),
+            Producto("Llanta Deportiva Z 20\"", 310.00, R.drawable.deportiva, "LLANTAS"),
+            Producto("Neumático Michelin 195/65", 89.99, R.drawable.michelin, "NEUMÁTICOS"),
+            Producto("Neumático Pirelli 205/55", 95.50, R.drawable.kumho, "NEUMÁTICOS")
         )
 
         val adapter = ProductosAdapter(
@@ -219,13 +219,13 @@ class TiendaActivity : AppCompatActivity() {
         // (En el futuro, esto podría venir de una base de datos)
         val todosLosProductos = listOf(
             // Productos de la categoría LLANTAS
-            Producto("Llantas RR Sport 19\"", 249.99, R.drawable.ic_launcher_foreground, "LLANTAS"),
-            Producto("Llanta Xtreme", 230.00, R.drawable.ic_launcher_foreground, "LLANTAS"),
-            Producto("Llanta Deportiva Z 20\"", 310.00, R.drawable.ic_launcher_foreground, "LLANTAS"),
+            Producto("Llantas RR Sport 19\"", 249.99, R.drawable.sport, "LLANTAS"),
+            Producto("Llanta Xtreme", 230.00, R.drawable.xtreme, "LLANTAS"),
+            Producto("Llanta Deportiva Z 20\"", 310.00, R.drawable.deportiva, "LLANTAS"),
 
             // Productos de la categoría NEUMÁTICOS
-            Producto("Neumático Michelin 195/65", 89.99, R.drawable.ic_launcher_foreground, "NEUMÁTICOS"),
-            Producto("Neumático Pirelli 205/55", 95.50, R.drawable.ic_launcher_foreground, "NEUMÁTICOS")
+            Producto("Neumático Michelin 195/65", 89.99, R.drawable.michelin, "NEUMÁTICOS"),
+            Producto("Neumático Pirelli 205/55", 95.50, R.drawable.kumho, "NEUMÁTICOS")
         )
 
         // PASO 2: Filtrar los productos según la categoría seleccionada
